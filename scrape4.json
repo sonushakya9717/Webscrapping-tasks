@@ -1,0 +1,4388 @@
+[
+    {
+        "Name": "Anand",
+        "genre": [
+            "Drama",
+            "Musical"
+        ],
+        "Bio": "The story of a terminally ill man who wishes to live life to the full before the inevitable occurs, as told by his best friend.",
+        "Director": [
+            "Hrishikesh Mukherjee"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYmYzNmM2MDctZGY3Yi00NjRiLWIxZjctYjgzYTcxYTNhYTMyXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 2min"
+    },
+    {
+        "Name": "Anbe Sivam",
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "Two men, one young and arrogant, the other damaged - physically but not spiritually - by life, are thrown together by circumstances, and find that they are in some ways bound together by fate.",
+        "Director": [
+            "Sundar C."
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjQwZWQwYjItNTIzNy00NmE5LWE1NjctZDE5MzgyMzY5YjljXkEyXkFqcGdeQXVyOTA0NTIzNzU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 40min"
+    },
+    {
+        "Name": "Nayakan",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "A common man's struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact a heavy toll.",
+        "Director": [
+            "Mani Ratnam"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZmFiYjJkNTEtZDdlMi00YTA5LTk1YTYtMDgxM2M2MTRmNGFhXkEyXkFqcGdeQXVyNjc5Mjg4Nzc@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 36min"
+    },
+    {
+        "Name": "Pather Panchali",
+        "genre": [
+            "Drama"
+        ],
+        "Bio": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+        "Director": [
+            "Satyajit Ray"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNDE5YmMxYjEtZjNjNC00NjM2LWE2ZjctOTkyNGMxODRiMGNiXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Bengali"
+        ],
+        "country": "India",
+        "Runtime": "2h 5min"
+    },
+    {
+        "Name": "Gol Maal",
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "Bio": "A man's simple lie to secure his job escalates into more complex lies when his orthodox boss gets suspicious.",
+        "Director": [
+            "Hrishikesh Mukherjee"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjA4OTczODgxNF5BMl5BanBnXkFtZTgwMDAzMTU2NDE@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 24min"
+    },
+    {
+        "Name": "Vikram Vedha",
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "Bio": "Vikram, a no-nonsense police officer, accompanied by Simon, his partner, is on the hunt to capture Vedha, a smuggler and a murderer. Vedha tries to change Vikram's life, which leads to a conflict.",
+        "Director": [
+            "Gayatri"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BY2FiMTFmMzMtZDI2ZC00NDQyLWExYTUtOWNmZWM1ZDg5YjVjXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 27min"
+    },
+    {
+        "Name": "Ratsasan",
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "Bio": "A Sub-Inspector sets out in pursuit of a mysterious serial killer who targets teen school girls and murders them brutally",
+        "Director": [
+            "Ram Kumar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjU2NzIzMjYtMGE2ZS00YzgzLWE5MzgtZTFiYTlmOWNlYmJkXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR7,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 50min"
+    },
+    {
+        "Name": "Black Friday",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "A film about the investigations following the 1993 serial Bombay bomb blasts, told through the different stories of the people involved --police, conspirators, victims, middlemen.",
+        "Director": [
+            "Anurag Kashyap"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYWRjMDlmNGYtOGFhYy00ZWU4LTk3MzEtOTI4ZTgxN2Y5NGNkXkEyXkFqcGdeQXVyNzU3Nzk4MDQ@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 23min"
+    },
+    {
+        "Name": "Apur Sansar",
+        "genre": [
+            "Drama"
+        ],
+        "Bio": "This final installment in Satyajit Ray's Apu Trilogy follows Apu's life as an orphaned adult aspiring to be a writer.",
+        "Director": [
+            "Satyajit Ray"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZDYwYmVhZTAtNjFkNi00NzZkLWIyNWUtZmQyMmVkM2MwMjc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Bengali"
+        ],
+        "country": "India",
+        "Runtime": "1h 45min"
+    },
+    {
+        "Name": "Manichitrathazhu",
+        "genre": [
+            "Comedy",
+            "Horror",
+            "Musical"
+        ],
+        "Bio": "When a forbidden room in an old bungalow is unbolted, the spirit of a vengeful dancer is unleashed.",
+        "Director": [
+            "Fazil"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZjQxMmE4NDMtZGVkYi00YmQyLThiNTMtOTVmNDEyZWQ2MzUwXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Malayalam"
+        ],
+        "country": "India",
+        "Runtime": "2h 49min"
+    },
+    {
+        "Name": "Pariyerum Perumal",
+        "genre": [
+            "Drama"
+        ],
+        "Bio": "A law student from a lower caste begins a friendship with his classmate, a girl who belongs to a higher caste, and the men in her family start giving him trouble over this.",
+        "Director": [
+            "Mari Selvaraj"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYTI3ZmIyMjYtZTcwZC00N2Q1LTg1ZTEtNjZjYWQ5NTU1NTA1XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 34min"
+    },
+    {
+        "Name": "Taare Zameen Par",
+        "genre": [
+            "Drama",
+            "Family"
+        ],
+        "Bio": "An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+        "Director": [
+            "Aamir Khan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 45min"
+    },
+    {
+        "Name": "3 Idiots",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+        "Director": [
+            "Rajkumar Hirani"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 50min"
+    },
+    {
+        "Name": "96",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "Two high school sweethearts meet at a reunion after 22 years and reminisce about their past.",
+        "Director": [
+            "C. Prem Kumar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZTM1MGM3NjgtZjE4Mi00ZTNlLWI3ODAtNTViZjFmMDc3MjlhXkEyXkFqcGdeQXVyOTA3MTM0MTM@._V1_UY268_CR7,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 38min"
+    },
+    {
+        "Name": "Dangal",
+        "genre": [
+            "Action",
+            "Biography",
+            "Drama"
+        ],
+        "Bio": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+        "Director": [
+            "Nitesh Tiwari"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 41min"
+    },
+    {
+        "Name": "Kumbalangi Nights",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "The film revolves around four brothers who share a love-hate relationship with each other. Their relationship progresses to another level when Saji, Boney, and Franky decide to help Bobby stand by his love.",
+        "Director": [
+            "Madhu C. Narayanan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYjYyZTNkZGYtZGJjZC00NmM2LThjNjMtMjYxYTI0NTg1NzViXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Malayalam"
+        ],
+        "country": "India",
+        "Runtime": "2h 15min"
+    },
+    {
+        "Name": "Thalapathi",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "An orphan named Surya raised in a slum befriends a good crime boss named Devaraj and works for him. Their existence is threatened when a new honest district collector arrives.",
+        "Director": [
+            "Mani Ratnam"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZGE5NzVjNTEtMGUwYi00YzU0LWIyYTctNDc0ZjMxNGNhYzg5XkEyXkFqcGdeQXVyMjMwODI3NDE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 37min"
+    },
+    {
+        "Name": "Jaane Bhi Do Yaaro",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "Two friends, attempting to start-up their own photo studio, come across shady dealings, corruption and murder, and must fight to bring the guilty to light.",
+        "Director": [
+            "Kundan Shah"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMDE0Y2NhYjEtNWM3MS00MzFiLTlkODctYmViY2Q4OTczYWI2XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR10,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 12min"
+    },
+    {
+        "Name": "Visaaranai",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "Four labourers are tortured by the police to confess to a theft they have not committed.",
+        "Director": [
+            "Vetrimaaran"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYjRkMDVmZGItZTUwOS00ODdjLWEwM2ItYTNjYTJkODg1MThhXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR7,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "1h 57min"
+    },
+    {
+        "Name": "Guide",
+        "genre": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ],
+        "Bio": "When mistaken to be a sage by some villagers, an ex-tour guide reflects on his past and lost love to search for spiritual wisdom to guide the villagers.",
+        "Director": [
+            "Vijay Anand"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOTM4ZjhiNGItMzE2My00YjM0LWE5ZTEtYTA5NDMzZDJlOWQ3XkEyXkFqcGdeQXVyODMyODMxNDY@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 3min"
+    },
+    {
+        "Name": "Chupke Chupke",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "A newly wedded husband plays a practical joke on his wife's family with full support from his wife and friends.",
+        "Director": [
+            "Hrishikesh Mukherjee"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjAzMjMzMzU2N15BMl5BanBnXkFtZTgwMDkxOTE3NDE@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 26min"
+    },
+    {
+        "Name": "Aruvi",
+        "genre": [
+            "Drama"
+        ],
+        "Bio": "A gentle girl born and brought up amidst the ever growing eco-social-consumeristic environment finds it difficult to fit in the society. She decides to take it hard on the people. What she does is the rest of the story.",
+        "Director": [
+            "Arun Prabhu Purushothaman"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZjVlY2E0ODAtNTZmNS00YzI0LTk2NzUtMWZkM2I2YjFkZWY5XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 10min"
+    },
+    {
+        "Name": "Asuran",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "Bio": "The teenage son of a farmer from an underprivileged caste kills a rich, upper caste landlord. Will the farmer, a loving father and a pacifist by heart, be able to save his hot-blooded son is the rest of the story.",
+        "Director": [
+            "Vetrimaaran"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTQ3YWY1MzQtNDA3OC00MDY1LTk3ZmMtMzNjZmFjY2FhYWNhXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 21min"
+    },
+    {
+        "Name": "Aparajito",
+        "genre": [
+            "Drama"
+        ],
+        "Bio": "Following his father's death, a boy leaves home to study in Calcutta, while his mother must face a life alone.",
+        "Director": [
+            "Satyajit Ray"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNTE5YjA1ZDYtNTIxNi00MGFhLTkzM2QtOTMwNDc5YWUwZmZiXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Bengali"
+        ],
+        "country": "India",
+        "Runtime": "1h 50min"
+    },
+    {
+        "Name": "Thani Oruvan",
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "Bio": "Siddharth Abimanyu, an influential scientist, is involved in various illegal medical practices. Mithran, an efficient IPS officer, decides to expose him.",
+        "Director": [
+            "Mohan Raja"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMzgwZjcyZjItN2Q5Mi00NTM3LTg0YmMtMmQ2NmVmY2Y4MzY0XkEyXkFqcGdeQXVyOTA0NTIzNzU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 40min"
+    },
+    {
+        "Name": "Vada Chennai",
+        "genre": [
+            "Action",
+            "Crime"
+        ],
+        "Bio": "A young carrom player in north Chennai becomes a reluctant participant in a war between two warring gangsters.",
+        "Director": [
+            "Vetrimaaran"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYTA4Yjc1OTgtODU3YS00MTQ5LTljM2EtN2JiYzI2MmI2MmVkXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR5,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 44min"
+    },
+    {
+        "Name": "Kannathil Muthamittal",
+        "genre": [
+            "Action",
+            "Drama",
+            "War"
+        ],
+        "Bio": "A little girl is told by her parents that she is adopted. Determined to find her real mother, she begs to be taken to Sri Lanka, where her mother works with a militant group of activists.",
+        "Director": [
+            "Mani Ratnam"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZmE2N2YyODYtNjk3MC00NTU1LTgwOTUtZmRmN2JkMWFlZTZjXkEyXkFqcGdeQXVyOTA0NTIzNzU@._V1_UY268_CR15,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 3min"
+    },
+    {
+        "Name": "Andhadhun",
+        "genre": [
+            "Crime",
+            "Thriller"
+        ],
+        "Bio": "A series of mysterious events change the life of a blind pianist, who must now report a crime that he should technically know nothing of.",
+        "Director": [
+            "Sriram Raghavan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZWZhMjhhZmYtOTIzOC00MGYzLWI1OGYtM2ZkN2IxNTI4ZWI3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 19min"
+    },
+    {
+        "Name": "Drishyam",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "A man goes to extreme lengths to save his family from punishment after the family commits an accidental crime.",
+        "Director": [
+            "Jeethu Joseph"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BM2FiNjMxNjMtOWQ3Ny00YmFjLTk0YWMtYmQ3Nzg2MWY1YzAwXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY268_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Malayalam"
+        ],
+        "country": "India",
+        "Runtime": "2h 40min"
+    },
+    {
+        "Name": "Khaidi",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "Bio": "A recently released prisoner becomes involved in a chase with criminals as he races against time to drive poisoned cops to hospital in exchange for meeting his daughter.",
+        "Director": [
+            "Lokesh Kanagaraj"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMzNjMDhmYzEtM2YxOC00NzZjLThkODctZjI4M2UyOWIyOTZmXkEyXkFqcGdeQXVyNzcxMzI4Njk@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 25min"
+    },
+    {
+        "Name": "Khosla Ka Ghosla!",
+        "genre": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "A Delhi based retired middle class man tries half-heartedly to get his land back from a swindling property dealer with the help of his sons and their friends.",
+        "Director": [
+            "Dibakar Banerjee"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZTg2YWFkOGMtYWExMy00YmFiLTk2YjctNTAzZDk5MjdhMzdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 15min"
+    },
+    {
+        "Name": "Dhuruvangal Pathinaaru",
+        "genre": [
+            "Action",
+            "Crime",
+            "Mystery"
+        ],
+        "Bio": "A police officer retires after an accident during a case investigation. Years later, he is forced to relive the past as he narrates the story to his friend's son.",
+        "Director": [
+            "Karthick Naren"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjYzZTYxYTgtYjdhZC00ZWY1LTk5NzQtOTQyYjZmY2U5NzNmXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "1h 45min"
+    },
+    {
+        "Name": "Jersey",
+        "genre": [
+            "Drama",
+            "Sport"
+        ],
+        "Bio": "A failed cricketer decides to revive his cricketing career in his late 30's despite everyone being skeptical of his ability to do so.",
+        "Director": [
+            "Gowtam Tinnanuri"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYjc0MWFiYTMtNmYyOS00ODczLWEyMzItNzI4YjY0YjJjZGVjXkEyXkFqcGdeQXVyNzEwNjg3MjE@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "2h 37min"
+    },
+    {
+        "Name": "Peranbu",
+        "genre": [
+            "Drama"
+        ],
+        "Bio": "A single father tries to raise his daughter, who has cerebral palsy, even as she is beginning to wake up to her sexuality.",
+        "Director": [
+            "Ram"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYTJmYWE1ZDQtMDVmYi00NDg5LWI2ZDYtMjc0ZmY2YmQyODQ0XkEyXkFqcGdeQXVyODM1ODM4OTc@._V1_UY268_CR10,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 27min"
+    },
+    {
+        "Name": "Super Deluxe",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "An unfaithful newly-wed wife, an estranged father, a priest and an angry son suddenly find themselves in the most unexpected predicaments, each poised to experience their destiny, all on one fateful day.",
+        "Director": [
+            "Thiagarajan Kumararaja"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYjcwMTcxMjQtY2E3Ny00NDk2LWE4MTYtMDg0MDNlZTE2ZTYyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 56min"
+    },
+    {
+        "Name": "Shahid",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "Bio": "The account of Human Rights lawyer Shahid Azmi, an ordinary citizen with an extraordinary commitment to justice.",
+        "Director": [
+            "Hansal Mehta"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTYyMDE1NjQ1Nl5BMl5BanBnXkFtZTgwMDAyMTUzMDE@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 9min"
+    },
+    {
+        "Name": "Tumbbad",
+        "genre": [
+            "Drama",
+            "Fantasy",
+            "Horror"
+        ],
+        "Bio": "A mythological story about a goddess who created the entire universe. The plot revolves around the consequences when humans build a temple for her first-born.",
+        "Director": [
+            "Rahi Anil Barve"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYmQxNmU4ZjgtYzE5Mi00ZDlhLTlhOTctMzJkNjk2ZGUyZGEwXkEyXkFqcGdeQXVyMzgxMDA0Nzk@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 44min"
+    },
+    {
+        "Name": "Premam",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "A young man has three opportunities to find love. Will the third time be the charm?",
+        "Director": [
+            "Alphonse Puthren"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMzJhNjMyOGMtYjhiYy00ZTAwLThmZWUtZmE5NzI3OTk4Y2M4XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Malayalam"
+        ],
+        "country": "India",
+        "Runtime": "2h 36min"
+    },
+    {
+        "Name": "Talvar",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "Bio": "An experienced investigator confronts several conflicting theories about the perpetrators of a violent double homicide.",
+        "Director": [
+            "Meghna Gulzar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTYzODg0Mjc4M15BMl5BanBnXkFtZTgwNzY4Mzc3NjE@._V1_UY268_CR8,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 12min"
+    },
+    {
+        "Name": "Satya",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "An innocent man is embroiled in underworld after being falsely charged and sets out to punish the perpetrators who subjected his life to misery.",
+        "Director": [
+            "Ram Gopal Varma"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTMwMjk3MzA2OF5BMl5BanBnXkFtZTcwNjU2ODgzMQ@@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 50min"
+    },
+    {
+        "Name": "Mahanati",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "Bio": "Biography of Savitri, an actress from South India movie industry, who ruled the industry for two decades during 50s and 60s.",
+        "Director": [
+            "Nag Ashwin"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMmNkN2ZkODgtZTU1Zi00MDg3LWE1MGQtM2ZmY2Y3ODcwZmE5XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "2h 57min"
+    },
+    {
+        "Name": "Drishyam",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "Bio": "Desperate measures are taken by a man who tries to save his family from the dark side of the law, after they commit an unexpected crime.",
+        "Director": [
+            "Nishikant Kamat"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYmJhZmJlYTItZmZlNy00MGY0LTg0ZGMtNWFkYWU5NTA1YTNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 43min"
+    },
+    {
+        "Name": "Bangalore Days",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "Three cousins set out to fulfill their Bangalore dreams.",
+        "Director": [
+            "Anjali Menon"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZmY5NjNjYWMtNmJhNi00YTk0LTg0OWUtNDE4OGQ0YmM4NDAwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Malayalam"
+        ],
+        "country": "India",
+        "Runtime": "2h 51min"
+    },
+    {
+        "Name": "Bhaag milkha bhaag",
+        "genre": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ],
+        "Bio": "The truth behind the ascension of Milkha Singh who was scarred because of the India-Pakistan partition.",
+        "Director": [
+            "Rakeysh Omprakash Mehra"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTY1Nzg4MjcwN15BMl5BanBnXkFtZTcwOTc1NTk1OQ@@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 6min"
+    },
+    {
+        "Name": "Rang De Basanti",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "The story of six young Indians who assist an English woman to film a documentary on the freedom fighters from their past, and the events that lead them to relive the long-forgotten saga of freedom.",
+        "Director": [
+            "Rakeysh Omprakash Mehra"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYThmZDA0YmQtMWJhNy00MDQwLTk0Y2YtMDhmZTE5ZjhlNjliXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 47min"
+    },
+    {
+        "Name": "Gangs of Wasseypur",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.",
+        "Director": [
+            "Anurag Kashyap"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTgwODM3NzM5MzE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "5h 21min"
+    },
+    {
+        "Name": "Soodhu Kavvum",
+        "genre": [
+            "Comedy",
+            "Crime",
+            "Thriller"
+        ],
+        "Bio": "Das, with his team, kidnap Arumai, son of a politician, who has been planning his own kidnapping to extract money from his father. Problems arise, when an insane cop is brought to handle the case.",
+        "Director": [
+            "Nalan Kumarasamy"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNzZiNGRlM2EtZWEwZC00MDg5LWEyYTctYjJkYmFjNzRiZmE1XkEyXkFqcGdeQXVyODk1MzE5NDA@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 15min"
+    },
+    {
+        "Name": "Swades: We, the People",
+        "genre": [
+            "Drama"
+        ],
+        "Bio": "A successful Indian scientist returns to an Indian village to take his nanny to America with him and in the process rediscovers his roots.",
+        "Director": [
+            "Ashutosh Gowariker"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYzExOTcwNjYtZTljMC00YTQ2LWI2YjYtNWFlYzQ0YTJhNzJmXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 30min"
+    },
+    {
+        "Name": "Jigarthanda",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "An aspiring director targets a ruthless gangster because he wants to make a violent gangster film. His discreet attempts to research the gangster fail miserably. Finally when he gets caught snooping, things hit the fan.",
+        "Director": [
+            "Karthik Subbaraj"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOTY0MzA3NmQtMDQ2YS00MmIyLTkzNWItMjkyMmYyMmZkNDI0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 51min"
+    },
+    {
+        "Name": "Hera Pheri",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "Bio": "Three unemployed men find the answer to all their money problems when they receive a call from a kidnapper. However, things do not go as planned.",
+        "Director": [
+            "Priyadarshan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMGMzZjY2ZWQtZjQxYS00NWY3LThhNjItNWQzNTkzOTllODljXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UY268_CR5,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 36min"
+    },
+    {
+        "Name": "Mudhalvan",
+        "genre": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "A man accepts a challenge to act as the Chief Minister of Tamil Nadu for one day only, and makes such a success of it that soon he is embroiled in political intrigue.",
+        "Director": [
+            "S. Shankar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BN2JiOGI2ODMtNGFiMy00NjZjLThmODMtZTEzZDkwNjdhZTk3XkEyXkFqcGdeQXVyODE0NjUxNzY@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 49min"
+    },
+    {
+        "Name": "Chak De! India",
+        "genre": [
+            "Drama",
+            "Family",
+            "Sport"
+        ],
+        "Bio": "Kabir Khan is the coach of the Indian Women's National Hockey Team and his dream is to make his all girls team emerge victorious against all odds.",
+        "Director": [
+            "Shimit Amin"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTUzODMyNzk4NV5BMl5BanBnXkFtZTgwNTk1NTYyNTM@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 33min"
+    },
+    {
+        "Name": "Black",
+        "genre": [
+            "Drama"
+        ],
+        "Bio": "The cathartic tale of a young woman who can't see, hear or talk and the teacher who brings a ray of light into her dark world.",
+        "Director": [
+            "Sanjay Leela Bhansali"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNTI5MmE5M2UtZjIzYS00M2JjLWIwNDItYTY2ZWNiODBmYTBiXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 2min"
+    },
+    {
+        "Name": "Sholay",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "Bio": "After his family is murdered by a notorious and ruthless bandit, a former police officer enlists the services of two outlaws to capture the bandit.",
+        "Director": [
+            "Ramesh Sippy"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOWQ0YTUzYzItYjI0MC00OTZmLWE1MWQtY2EzMzU2MTlmMmJjXkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_UY268_CR11,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 24min"
+    },
+    {
+        "Name": "Paan Singh Tomar",
+        "genre": [
+            "Action",
+            "Biography",
+            "Crime"
+        ],
+        "Bio": "The story of Paan Singh Tomar, an Indian athlete and seven-time national steeplechase champion who becomes one of the most feared dacoits in Chambal Valley after his retirement.",
+        "Director": [
+            "Tigmanshu Dhulia"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNTgwODM5OTMzN15BMl5BanBnXkFtZTcwMTA3NzI1Nw@@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 15min"
+    },
+    {
+        "Name": "Anniyan",
+        "genre": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "Ramanujam, who suffers from multiple personality disorder, works as a lawyer by day and a vigilante at night. He uses tips from the 'Garuda Purana' as his tools to expose various antisocial elements.",
+        "Director": [
+            "S. Shankar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BN2ZhMThlMWMtNGY1ZC00YzdmLThlM2MtMmQxYWQyNDIzNzM5XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "3h 3min"
+    },
+    {
+        "Name": "Papanasam",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "Desperate measures are taken by a man who tries to save his family from the dark side of the law, after they commit an unexpected crime.",
+        "Director": [
+            "Jeethu Joseph"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOTM4ZmU2MGQtNDI4Ni00MzNjLWI3OTMtMDA4Y2FjZmM1NTA5XkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 59min"
+    },
+    {
+        "Name": "Queen",
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "A Delhi girl from a traditional family sets out on a solo honeymoon after her marriage gets cancelled.",
+        "Director": [
+            "Vikas Bahl"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNWYyOWRlOWItZWM5MS00ZjJkLWI0MTUtYTE3NTI5MDAwYjgyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 26min"
+    },
+    {
+        "Name": "Jo Jeeta Wohi Sikandar",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "A rich brat and a poor chap try to woo a girl, with their rivalry culminating in the most prestigious college event - the marathon cycle race.",
+        "Director": [
+            "Mansoor Khan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNTU1ZjQwNDAtZDAwMC00OTcyLTg4MDUtOTUwYTU4N2M4YTgxXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR7,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 54min"
+    },
+    {
+        "Name": "Mughal-E-Azam",
+        "genre": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "Bio": "A 16th century prince falls in love with a court dancer and battles with his emperor father.",
+        "Director": [
+            "K. Asif"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTQxNTI5ODI1N15BMl5BanBnXkFtZTcwMDc2ODgzMQ@@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Urdu"
+        ],
+        "country": "India",
+        "Runtime": "3h 17min"
+    },
+    {
+        "Name": "Andaz Apna Apna",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Family"
+        ],
+        "Bio": "Two slackers competing for the affections of an heiress inadvertently become her protectors from an evil criminal.",
+        "Director": [
+            "Rajkumar Santoshi"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZTIwYzRjMGYtZWQ0Ni00NDZhLThhZDYtOGViZGJiZTkwMzk2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 40min"
+    },
+    {
+        "Name": "Dil Chahta Hai",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "Three inseparable childhood friends are just out of college. Nothing comes between them - until they each fall in love, and their wildly different approaches to relationships creates tension.",
+        "Director": [
+            "Farhan Akhtar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjRjMTYwMTYtMmRkNi00MmVkLWE0MjQtNmM3YjI0NWFhZDNmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 3min"
+    },
+    {
+        "Name": "Ustad Hotel",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "Bio": "An urbane chef from a well-to-do family with very high ambitions goes on to find approval from his conservative father, true love and the real purpose of his life.",
+        "Director": [
+            "Anwar Rasheed"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNWYzYjk3YzItNzBhMC00NmQwLTk0MmUtNzU5MWNmNDI2Mzg0XkEyXkFqcGdeQXVyODE0NjUxNzY@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Malayalam"
+        ],
+        "country": "India",
+        "Runtime": "2h 31min"
+    },
+    {
+        "Name": "Article 15",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "In the rural heartlands of India, an upright police officer sets out on a crusade against violent caste-based crimes and discrimination.",
+        "Director": [
+            "Anubhav Sinha"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZTI2NTFiMDMtZjQxNS00YjBkLWFhNWMtOTIyMzE5Yjc0ZTZiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 10min"
+    },
+    {
+        "Name": "A Wednesday",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "Bio": "A retiring police officer reminisces about the most astounding day of his career. About a case that was never filed but continues to haunt him in his memories - the case of a man and a Wednesday.",
+        "Director": [
+            "Neeraj Pandey"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOTcwMzdiMWItMjZlOS00MzAzLTg5OTItNTA4OGYyMjBhMmRiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 44min"
+    },
+    {
+        "Name": "Munna Bhai M.B.B.S.",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Musical"
+        ],
+        "Bio": "A gangster sets out to fulfill his father's dream of becoming a doctor.",
+        "Director": [
+            "Rajkumar Hirani"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMzQ4MTBlYTQtMzJkYS00OGNjLTk1MWYtNzQ0OTQ0OWEyOWU1XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 36min"
+    },
+    {
+        "Name": "Udaan",
+        "genre": [
+            "Drama"
+        ],
+        "Bio": "Expelled from his school, a 16-year old boy returns home to his abusive and oppressive father.",
+        "Director": [
+            "Vikramaditya Motwane"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNzgxMzExMzUwNV5BMl5BanBnXkFtZTcwMDc2MjUwNA@@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 14min"
+    },
+    {
+        "Name": "Sairat",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "In interior Maharashtra, a fisherman's son and a local politician's daughter fall in love against the restrictions of caste hierarchy.",
+        "Director": [
+            "Nagraj Manjule"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjBjNWYyY2UtOGNjZC00MTg4LWIwYWItYmZiNDI5MGUwNWRkXkEyXkFqcGdeQXVyNjI1NjA5NjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Marathi"
+        ],
+        "country": "India",
+        "Runtime": "2h 54min"
+    },
+    {
+        "Name": "Sarfarosh",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "Bio": "After his brother is killed and father severely injured by terrorists, a young med student quits his studies to join the Indian Police Service to wipe out the terrorists.",
+        "Director": [
+            "John Mathew Matthan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZTljOTU3MjQtMjVjYS00NWM5LTljZjQtMjhiM2JmMDYxZjZhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR5,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 54min"
+    },
+    {
+        "Name": "Uri: The Surgical Strike",
+        "genre": [
+            "Action",
+            "Drama",
+            "War"
+        ],
+        "Bio": "Indian army special forces execute a covert operation, avenging the killing of fellow army men at their base by a terrorist group.",
+        "Director": [
+            "Aditya Dhar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMWU4ZjNlNTQtOGE2MS00NDI0LWFlYjMtMmY3ZWVkMjJkNGRmXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 18min"
+    },
+    {
+        "Name": "OMG: Oh My God!",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "Bio": "A shopkeeper takes God to court when his shop is destroyed by an earthquake.",
+        "Director": [
+            "Umesh Shukla"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMGNhYjUwNmYtNDQxNi00NDdmLTljMDAtZWM1NDQyZTk3ZDYwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 5min"
+    },
+    {
+        "Name": "Zindagi Na Milegi Dobara",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "Three friends decide to turn their fantasy vacation into reality after one of their friends gets engaged.",
+        "Director": [
+            "Zoya Akhtar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZGFmMjM5OWMtZTRiNC00ODhlLThlYTItYTcyZDMyYmMyYjFjXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 35min"
+    },
+    {
+        "Name": "Gully Boy",
+        "genre": [
+            "Drama",
+            "Musical"
+        ],
+        "Bio": "A coming-of-age story based on the lives of street rappers in Mumbai.",
+        "Director": [
+            "Zoya Akhtar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZDkzMTQ1YTMtMWY4Ny00MzExLTkzYzEtNzZhOTczNzU2NTU1XkEyXkFqcGdeQXVyODY3NjMyMDU@._V1_UY268_CR11,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 33min"
+    },
+    {
+        "Name": "Roja",
+        "genre": [
+            "Drama",
+            "Romance",
+            "Thriller"
+        ],
+        "Bio": "A woman from a village in Tamil Nadu marries a sophisticated city dweller and moves with him to Kashmir, where all is rosy - until he gets kidnapped by militants.",
+        "Director": [
+            "Mani Ratnam"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTBlZTk1YTMtZTQ2Ni00YzhkLWJiNDEtNWI2NjE0M2I4ZmYzXkEyXkFqcGdeQXVyNjc5Mjg4Nzc@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 17min"
+    },
+    {
+        "Name": "Lagaan: Once Upon a Time in India",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Musical"
+        ],
+        "Bio": "The people of a small village in Victorian India stake their future on a game of cricket against their ruthless British rulers.",
+        "Director": [
+            "Ashutosh Gowariker"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNDYxNWUzZmYtOGQxMC00MTdkLTkxOTctYzkyOGIwNWQxZjhmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 44min"
+    },
+    {
+        "Name": "Kahaani",
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "Bio": "A pregnant woman's search for her missing husband takes her from London to Kolkata, but everyone she questions denies having ever met him.",
+        "Director": [
+            "Sujoy Ghosh"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTQ1NDI0NzkyOF5BMl5BanBnXkFtZTcwNzAyNzE2Nw@@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 2min"
+    },
+    {
+        "Name": "PK",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "Bio": "An alien on Earth loses the only device he can use to communicate with his spaceship. His innocent nature and child-like questions force the country to evaluate the impact of religion on its people.",
+        "Director": [
+            "Rajkumar Hirani"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 33min"
+    },
+    {
+        "Name": "Masaan",
+        "genre": [
+            "Drama"
+        ],
+        "Bio": "Along India's Ganges River, four people face prejudice, a strict moral code and a punishing caste system as they confront personal tragedies.",
+        "Director": [
+            "Neeraj Ghaywan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTU4NTE0NTMyNl5BMl5BanBnXkFtZTgwNjI5MDkxNjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 49min"
+    },
+    {
+        "Name": "Pink",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "When three young women are implicated in a crime, a retired lawyer steps forward to help them clear their names.",
+        "Director": [
+            "Aniruddha Roy Chowdhury"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNGI1MTI1YTQtY2QwYi00YzUzLTg3NWYtNzExZDlhOTZmZWU0XkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 16min"
+    },
+    {
+        "Name": "Iqbal",
+        "genre": [
+            "Drama",
+            "Sport"
+        ],
+        "Bio": "Iqbal, the deaf and mute son of a farmer, has a passion for the game of cricket and seeks the tutelage of a washed-up, alcoholic ex-player.",
+        "Director": [
+            "Nagesh Kukunoor"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjA3NzUzMjU5MF5BMl5BanBnXkFtZTgwNzMxMDAxMzE@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 12min"
+    },
+    {
+        "Name": "Theeran adhigaaram ondru",
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "Bio": "Theeran, a police officer, tries to decode a series of cold blood events based on same pattern.",
+        "Director": [
+            "H. Vinoth"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNGFkYTM4NzQtNWE3Yy00NTM2LWI1MDktYTg5NTIxMzQ5MmE4XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 37min"
+    },
+    {
+        "Name": "Barfi!",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "Three young people learn that love can neither be defined nor contained by society's definition of normal and abnormal.",
+        "Director": [
+            "Anurag Basu"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTQzMTEyODY2Ml5BMl5BanBnXkFtZTgwMjA0MDUyMjE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 31min"
+    },
+    {
+        "Name": "Maheshinte Prathikaram",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "Mahesh, a studio photographer and studio owner gets into a fight and loses. He ends up taking revenge which leads to certain realizations in his life.",
+        "Director": [
+            "Dileesh Pothan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZWIyNzk3NTItMDg0YS00YTljLWE4MmItNjEwNjBjYjAxNWVhXkEyXkFqcGdeQXVyODE0NjUxNzY@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Malayalam"
+        ],
+        "country": "India",
+        "Runtime": "2h"
+    },
+    {
+        "Name": "Baasha",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "An auto driver, Manikam, desperately tries to hide his dark underworld side to keep his promise to his father.",
+        "Director": [
+            "Suresh Krishna"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOWIyZWJiY2MtYWI5OC00ZmVjLWI0YWItMDJjYzE4OTE2ZDVhXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 25min"
+    },
+    {
+        "Name": "Maqbool",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "The intrigue of the Shakespearean tragedy 'Macbeth' is transposed to the Mumbai underworld.",
+        "Director": [
+            "Vishal Bhardwaj"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTE2NjYzOWUtMDgyZS00NGY3LTk5ZDctODMxNGYyNjUyODIwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR5,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 12min"
+    },
+    {
+        "Name": "The Legend of Bhagat Singh",
+        "genre": [
+            "Action",
+            "Biography",
+            "Drama"
+        ],
+        "Bio": "The story of a young revolutionary who raised an armed resistance against the British rule in India.",
+        "Director": [
+            "Rajkumar Santoshi"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOWUyZmE0NTMtZjY4Zi00OWRmLTlmOWEtNGNiZGNiZTdmZDU4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 35min"
+    },
+    {
+        "Name": "Omkara",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "A politically-minded enforcer's misguided trust in his lieutenant leads him to suspect his wife of infidelity in this adaptation of Shakespeare's 'Othello'.",
+        "Director": [
+            "Vishal Bhardwaj"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BY2NmNjlhYzQtMWU5MS00YTVmLWIyOWEtOGFmY2ZjMjY2ZGRkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 35min"
+    },
+    {
+        "Name": "Bombay",
+        "genre": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ],
+        "Bio": "A Hindu man and a Muslim woman fall in love in a small village and move to Mumbai, where they have two children. However, growing religious tensions and erupting riots threaten to tear the family apart.",
+        "Director": [
+            "Mani Ratnam"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNDA2NjYzNTAtMzEzZS00ZDBiLWJjYjctOTM5OGRhMDU2ZTI4XkEyXkFqcGdeQXVyNjc5Mjg4Nzc@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 21min"
+    },
+    {
+        "Name": "Lage Raho Munna Bhai",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "Munna Bhai embarks on a journey with Mahatma Gandhi in order to fight against a corrupt property dealer.",
+        "Director": [
+            "Rajkumar Hirani"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BN2ZmMDMwODgtMzA5MS00MGU0LWEyYTgtYzQ5MmQzMzU2NTVkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 24min"
+    },
+    {
+        "Name": "Bommarillu",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "A young man realizes that he has to push back against his domineering father if he wants to find true happiness and love.",
+        "Director": [
+            "Bhaskar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMDhjNTk0M2YtYzIzMy00MWFkLWI4OWUtNTY2NDVhYWJmN2UwXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "2h 50min"
+    },
+    {
+        "Name": "Lucia",
+        "genre": [
+            "Drama",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "Bio": "A man suffering from insomnia is tricked into buying a drug, Lucia, that makes his desires come true in his dreams, blurring the line between fantasy and reality.",
+        "Director": [
+            "Pawan Kumar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTQyMDA5ODkzN15BMl5BanBnXkFtZTgwMjIzMDkyMDE@._V1_UY268_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Kannada"
+        ],
+        "country": "India",
+        "Runtime": "2h 15min"
+    },
+    {
+        "Name": "Section 375",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "A celebrated Bollywood director Rohan Khurana stands accused by a female member of his crew, Anjali Dangle of having raped her at his residence.",
+        "Director": [
+            "Ajay Bahl"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTQwNDBlODYtNGIyYS00ZmMwLTk5NDUtNDEwNmFiZjY0ZDUxXkEyXkFqcGdeQXVyODg4OTQ4NDM@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 4min"
+    },
+    {
+        "Name": "Dilwale Dulhania Le Jayenge",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "When Raj meets Simran in Europe, it isn't love at first sight but when Simran moves to India for an arranged marriage, love makes its presence felt.",
+        "Director": [
+            "Aditya Chopra"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMDQ2ZmE2NTMtZDE3NC00YzFjLWJhNmEtMDEzMTI5ZjU2ZGM0XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 9min"
+    },
+    {
+        "Name": "Deewaar",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "Vijay struggles as a dockworker and eventually becomes a leading figure of the underworld, while his younger brother Ravi is an educated, upright policeman. This divide causes problems in their relationship.",
+        "Director": [
+            "Yash Chopra"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTU2NTYyOTA3NV5BMl5BanBnXkFtZTcwMDMyNjEzMQ@@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 54min"
+    },
+    {
+        "Name": "Baahubali 2: The Conclusion",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "Bio": "When Shiva, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.",
+        "Director": [
+            "S.S. Rajamouli"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOGNlNmRkMjctNDgxMC00NzFhLWIzY2YtZDk3ZDE0NWZhZDBlXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "2h 47min"
+    },
+    {
+        "Name": "Gulaal",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "A law student witnesses deception, homicide, and crime after being elected as General Secretary of his college.",
+        "Director": [
+            "Anurag Kashyap"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYTMxYjEwYjctMjg4Ni00N2UyLThkNDEtNTY4ODExNmIzYjE5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 20min"
+    },
+    {
+        "Name": "Haider",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "A young man returns to Kashmir after his father's disappearance to confront his uncle, whom he suspects of playing a role in his father's fate.",
+        "Director": [
+            "Vishal Bhardwaj"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjA1NTEwMDMxMF5BMl5BanBnXkFtZTgwODkzMzI0MjE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 40min"
+    },
+    {
+        "Name": "Ugly",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "Bio": "The case of a missing girl takes us through a journey of human greed and brushes upon the egos and repressed emotions of the characters.",
+        "Director": [
+            "Anurag Kashyap"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BY2VmMjlhYjgtYWY4ZS00MjYwLTg1ZTctZjA3MTMzMjJhNzA2XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 8min"
+    },
+    {
+        "Name": "Indian",
+        "genre": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "A veteran freedom fighter enraged with the rising crime and corruption in the society murders all the wrong doers one by one using an ancient martial arts technique.",
+        "Director": [
+            "S. Shankar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNmYzOGNlN2QtNmNlZC00MDgwLWE4ODQtODU2ZjY0MjExMjEyXkEyXkFqcGdeQXVyNjQ1MDcxNzM@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "3h 5min"
+    },
+    {
+        "Name": "Mother India",
+        "genre": [
+            "Drama",
+            "Musical",
+            "Family"
+        ],
+        "Bio": "In this melodrama, a poverty-stricken woman raises her sons through many trials and tribulations. But no matter the struggles, always sticks to her own moral code.",
+        "Director": [
+            "Mehboob Khan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNDcyMDE0ZWUtYjI3Ny00N2U2LWEzMTAtYzE4OTEzZjgyNzQ1XkEyXkFqcGdeQXVyNjQ1MDcxNzM@._V1_UY268_CR6,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 52min"
+    },
+    {
+        "Name": "Padosan",
+        "genre": [
+            "Comedy",
+            "Musical",
+            "Romance"
+        ],
+        "Bio": "A simple man from a village falls in love with his new neighbor. He enlists the help of his musical-theater friends to woo the lovely girl-next-door away from her music teacher.",
+        "Director": [
+            "Jyoti Swaroop"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTI4NTM0MjE4N15BMl5BanBnXkFtZTcwODUwOTQyMQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 37min"
+    },
+    {
+        "Name": "Athadu",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "Bio": "A gunman for hire is framed for murder, and assumes a dead man's identity while hiding from the police.",
+        "Director": [
+            "Trivikram Srinivas"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMDU4MDQ3YWItY2ViMy00NTM5LTg0NjQtMWIxN2ExZmU0ZTE0XkEyXkFqcGdeQXVyMjMyNjkwMTY@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "2h 52min"
+    },
+    {
+        "Name": "Dev.D",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "After breaking up with his childhood sweetheart, a young man finds solace in drugs. Meanwhile, a teenage girl is caught in the world of prostitution. Will they be destroyed, or will they find redemption?",
+        "Director": [
+            "Anurag Kashyap"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYjU1NjczNzYtYmFjOC00NzkxLTg4YTUtNGYzMTk3NTU0ZDE3XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 24min"
+    },
+    {
+        "Name": "Special Chabbis",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "A gang of con-men rob prominent rich businessmen and politicians by posing as C.B.I and income tax officers.",
+        "Director": [
+            "Neeraj Pandey"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTQ1NDI5MjMzNF5BMl5BanBnXkFtZTcwMTc0MDQwOQ@@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 24min"
+    },
+    {
+        "Name": "Padayappa",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "The death of Padaiyappa's father destroys his family. But his luck changes, and he is able to lead a prosperous life, until his nemesis plots to ruin his happiness once more.",
+        "Director": [
+            "K.S. Ravikumar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZDRkNTlkZWYtOWIzMi00OWE3LWFkMjUtMTdlNGFiNWVlMWQzXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR10,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "3h 1min"
+    },
+    {
+        "Name": "Arjun Reddy",
+        "genre": [
+            "Action",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "Arjun Reddy, a short tempered house surgeon gets used to drugs and drinks when his girlfriend is forced to marry another person.",
+        "Director": [
+            "Sandeep Reddy Vanga"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMzFhMThiOWItMzRjNC00YzQwLTkyZWItYmJhNzgwYzY1ODI0XkEyXkFqcGdeQXVyNTcyMzkyODg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "3h 2min"
+    },
+    {
+        "Name": "Bajrangi Bhaijaan",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "An Indian man with a magnanimous heart takes a young mute Pakistani girl back to her homeland to reunite her with her family.",
+        "Director": [
+            "Kabir Khan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjE1NjQ5ODc2NV5BMl5BanBnXkFtZTgwOTM5ODIxNjE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 43min"
+    },
+    {
+        "Name": "Badhaai ho",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "A man is embarrassed when he finds out his mother is pregnant.",
+        "Director": [
+            "Amit Ravindernath Sharma"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNjZlMDdmN2YtYThmZi00NGQzLTk0ZTQtNTUyZDFmODExOGNiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 4min"
+    },
+    {
+        "Name": "Vaastav: The Reality",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "Consequences force an innocent man to get involved in crime after making an error.",
+        "Director": [
+            "Mahesh Manjrekar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNzdhNWYwMGUtOGRjYS00ODg4LWE2NTktNzJhMGZhNGQyYzA5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 25min"
+    },
+    {
+        "Name": "Company",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "A small-time gangster named Chandu teams up with Malik, a low-level enforcer for a criminal syndicate. Together they eliminate all their enemies, becoming the most feared gangsters in Mumbai.",
+        "Director": [
+            "Ram Gopal Varma"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTQwMjFmMDItYzdjNC00NzFkLTg2MzctYzQ3ZmI0MWVlMDMwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 35min"
+    },
+    {
+        "Name": "Ulidavaru Kandanthe",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "A journalist sets out to uncover the truth behind an incident, through the perspectives of different people, unraveling how they and their lives are intertwined with it.",
+        "Director": [
+            "Rakshit Shetty"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTc3ODUxODg3MV5BMl5BanBnXkFtZTgwMDc0MDY4MTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Kannada"
+        ],
+        "country": "India",
+        "Runtime": "2h 34min"
+    },
+    {
+        "Name": "Ankhon Dekhi",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "Ankhon Dekhi centers around Raje Bauji, played by Sanjay Mishra who, after a dramatic incident, decides that he will only believe what he sees with his eyes.",
+        "Director": [
+            "Rajat Kapoor"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTY4YjY3ZDgtYjVhZS00MWY4LTlkYmMtNGI4ZGY4YzhiZmIwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 47min"
+    },
+    {
+        "Name": "Rangasthalam",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "Bio": "The fear of his elder brother's death starts to haunt an innocent, hearing impaired guy after they both join forces to overthrow the unlawful 30 year long regime of their village's president.",
+        "Director": [
+            "Sukumar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjQ1MjFkN2EtOTU4NS00NDkzLThhNzItODkzYWNjZDMxZjE0XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "2h 50min"
+    },
+    {
+        "Name": "Manjhi: The Mountain Man",
+        "genre": [
+            "Adventure",
+            "Biography",
+            "Drama"
+        ],
+        "Bio": "Using only a hammer and a chisel, a man spends twenty-two years carving a road through a treacherous mountain.",
+        "Director": [
+            "Ketan Mehta"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BODdlZTZlZTktNTYyZC00ODQ1LWE5MjYtYjc1YTQwODRlNzI5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h"
+    },
+    {
+        "Name": "Mukkabaaz",
+        "genre": [
+            "Action",
+            "Drama",
+            "Sport"
+        ],
+        "Bio": "A boxer struggles to make his mark in the boxing world.",
+        "Director": [
+            "Anurag Kashyap"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYjQ2YmFmNDgtMzBkNC00ZmVmLTkyNTEtMzFkMmEyMjJhZDdhXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 34min"
+    },
+    {
+        "Name": "Chhichhore",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "Following a group of friends from university as they progress into middle-age life and go their own separate ways.",
+        "Director": [
+            "Nitesh Tiwari"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYjg2ZDI2YTYtN2EwYi00YWI5LTgyMWQtMWFkYmE3NmJkOGVhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 23min"
+    },
+    {
+        "Name": "Ship of Theseus",
+        "genre": [
+            "Drama"
+        ],
+        "Bio": "The film explores questions of identity, justice, beauty, meaning and death through an experimental photographer, an ailing monk and a young stockbroker.",
+        "Director": [
+            "Anand Gandhi"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTU5Njc1NjkxMl5BMl5BanBnXkFtZTgwNTkzNTQwMDE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "English"
+        ],
+        "country": "India",
+        "Runtime": "2h 19min"
+    },
+    {
+        "Name": "Jab We Met",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "A depressed wealthy businessman finds his life changing after he meets a spunky and care-free young woman.",
+        "Director": [
+            "Imtiaz Ali"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYmIzYmY4MGItM2I4YS00OWZhLWFmMzQtYzI2MWY1MmM3NGU1XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 18min"
+    },
+    {
+        "Name": "Kal ho naa ho",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "Naina, an introverted, perpetually depressed girl's life changes when she meets Aman. But Aman has a secret of his own which changes their lives forever. Embroiled in all this is Rohit, Naina's best friend who conceals his love for her.",
+        "Director": [
+            "Nikkhil Advani"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYmVjNDIxODAtNWZiZi00ZDBlLWJmOTUtNDNjMGExNTViMzE1XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 6min"
+    },
+    {
+        "Name": "Pizza",
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "Bio": "A pizza delivery boy lands in a mysterious circumstance and it works a dramatic change in his life.",
+        "Director": [
+            "Karthik Subbaraj"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNDc3MTM0ZDItZjcwMy00MmI5LTlhMTctYmQ4NjM1MDM5MTRlXkEyXkFqcGdeQXVyODk1MzE5NDA@._V1_UY268_CR16,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 7min"
+    },
+    {
+        "Name": "My Name Is Khan",
+        "genre": [
+            "Drama"
+        ],
+        "Bio": "An Indian Muslim man with Asperger's syndrome takes a challenge to speak to the President of the United States seriously and embarks on a cross-country journey.",
+        "Director": [
+            "Karan Johar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTUyMTA4NDYzMV5BMl5BanBnXkFtZTcwMjk5MzcxMw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 45min"
+    },
+    {
+        "Name": "Vedam",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "Bio": "A terrorist threat puts five people in jeopardy.",
+        "Director": [
+            "Radha Krishna Jagarlamudi"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNmFmMTJiZGMtYWRjMC00ZDljLWJkZGUtYmRmMGJlYmI5MTI3XkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "2h 15min"
+    },
+    {
+        "Name": "Vaaranam Aayiram",
+        "genre": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ],
+        "Bio": "A father and son help each other through growing up, romance, tragedy, and adventure.",
+        "Director": [
+            "Gautham Vasudev Menon"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNDcxN2IwNTgtYzc4Ny00OWI2LTg0YWYtMGZhZTI3ZGI4ZGIyXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR304,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 49min"
+    },
+    {
+        "Name": "Padman",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "Upon realizing the extent to which women are affected by their menses, a man sets out to create a sanitary pad machine and to provide inexpensive sanitary pads to the women of rural India.",
+        "Director": [
+            "R. Balki"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BODViYjQ0YTktMTM5NS00YTVkLWE5MmUtNGY1MzUwOGY0OTg2XkEyXkFqcGdeQXVyNjg5NzkxNTU@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 20min"
+    },
+    {
+        "Name": "K.G.F: Chapter 1",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "Bio": "In the 1970s, a fierce rebel rises against brutal oppression and becomes the symbol of hope to legions of downtrodden people.",
+        "Director": [
+            "Prashanth Neel"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNDIwMDYxY2UtM2NhYy00NzkwLThhNDYtY2IxZGZhNjYyNmM2XkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_UY268_CR8,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Kannada"
+        ],
+        "country": "India",
+        "Runtime": "2h 36min"
+    },
+    {
+        "Name": "Super 30",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "Bio": "Based on the life of Patna-based mathematician Anand Kumar who runs the famed Super 30 program for IIT aspirants in Patna.",
+        "Director": [
+            "Vikas Bahl"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMWQzM2Y0ZDQtYjA1MS00YmUzLWFiMGQtZTliZWM1MWRiNDZhXkEyXkFqcGdeQXVyNTE2MzU4OTA@._V1_UY268_CR43,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 34min"
+    },
+    {
+        "Name": "B\u00e3hubali: The Beginning",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "Bio": "In ancient India, an adventurous and daring man becomes involved in a decades old feud between two warring people.",
+        "Director": [
+            "S.S. Rajamouli"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYWVlMjVhZWYtNWViNC00ODFkLTk1MmItYjU1MDY5ZDdhMTU3XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "2h 39min"
+    },
+    {
+        "Name": "Memories",
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "Bio": "Sam Alex, a drunkard ex-cop, is forced to investigate a series of murders which are committed in the same pattern. His search leads to a serial killer, and something more than what he expected.",
+        "Director": [
+            "Jeethu Joseph"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BY2NlMWYyNjgtNTZmZC00MjkxLTk3NjEtMjc2ZWRhM2MyZjNiXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Malayalam"
+        ],
+        "country": "India",
+        "Runtime": "2h 12min"
+    },
+    {
+        "Name": "Airlift",
+        "genre": [
+            "Drama",
+            "History"
+        ],
+        "Bio": "When Iraq invades Kuwait in August 1990, a callous Indian businessman becomes the spokesperson for more than 170,000 stranded countrymen.",
+        "Director": [
+            "Raja Menon"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMGE1ZTkyOTMtMTdiZS00YzI2LTlmYWQtOTE5YWY0NWVlNjlmXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 10min"
+    },
+    {
+        "Name": "Dor",
+        "genre": [
+            "Drama"
+        ],
+        "Bio": "Two woman --different backgrounds, miles apart, and strangers to each other-- are linked by tragedy. Their new-found friendship is tested as one holds the fate of the other's husband in her hands.",
+        "Director": [
+            "Nagesh Kukunoor"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYTk3NTVhNjktYTg0OC00ODk1LWE4MjUtMDhkNTY3MTMyMTc0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 27min"
+    },
+    {
+        "Name": "Lakshya",
+        "genre": [
+            "Action",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "An aimless, jobless, irresponsible grown man joins the army and matures into a battlefield hero.",
+        "Director": [
+            "Farhan Akhtar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BY2Y0NjY5ZTctZWMzNC00MDQ4LTkyMWUtOGZkMzk4NWNhYWI5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 6min"
+    },
+    {
+        "Name": "Border",
+        "genre": [
+            "Drama",
+            "History",
+            "War"
+        ],
+        "Bio": "In 1971, along the border region of Longewala, a small battalion of Indian soldiers goes up against a large Pakistani strike force.",
+        "Director": [
+            "J.P. Dutta"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNWYwYmExOWQtYzNkOS00NWY5LWE4NTEtYTcwY2FiYmQ0OTg5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR10,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 56min"
+    },
+    {
+        "Name": "Baby",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "Bio": "An elite counter-intelligence unit learns of a plot, masterminded by a maniacal madman. With the clock ticking, it's up to them to track the terrorists' international tentacles and prevent them from striking at the heart of India.",
+        "Director": [
+            "Neeraj Pandey"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYTdhNjBjZDctYTlkYy00ZGIxLWFjYTktODk5ZjNlMzI4NjI3XkEyXkFqcGdeQXVyMjY1MjkzMjE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 39min"
+    },
+    {
+        "Name": "Vettaiyaadu Vilaiyaadu",
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "Bio": "A Police Officer investigates a series of brutal rapes and murders, with the culprits seeming to cover more than one country.",
+        "Director": [
+            "Gautham Vasudev Menon"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMDcyZTMyNzEtYjE2Zi00YTBmLWJiZjUtYjBmNzgwZDlkNzkyXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR12,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 54min"
+    },
+    {
+        "Name": "Gangaajal",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "An IPS officer motivates and leads a dysfunctional, corrupt police force of Tezpur to fight against the corrupt politician.",
+        "Director": [
+            "Prakash Jha"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYjRjOWViZTgtYjA4Ny00MWJiLTkxYzktMzdlOGRmMWYwOTdjXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR8,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 37min"
+    },
+    {
+        "Name": "English Vinglish",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "Bio": "A quiet, sweet tempered housewife endures small slights from her well-educated husband and daughter every day because of her inability to speak and understand English.",
+        "Director": [
+            "Gauri Shinde"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjQ5YWVmYmYtOWFiZC00NGMxLWEwODctZDM2MWI4YWViN2E5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 14min"
+    },
+    {
+        "Name": "Hey Ram",
+        "genre": [
+            "Crime",
+            "Drama",
+            "History"
+        ],
+        "Bio": "Saketh Ram's wife is raped and killed during direct action day riots in Calcutta. He is convinced that Mahatma Gandhi is responsible for all the problems happening in the country and sets out to kill him.",
+        "Director": [
+            "Kamal Haasan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNTZjNGMzODItNTNkNi00MDE1LWI3Y2UtNTQ3ZTdmMjRlZjkzXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "3h 6min"
+    },
+    {
+        "Name": "Secret Superstar",
+        "genre": [
+            "Drama",
+            "Music"
+        ],
+        "Bio": "A talented teenage singer-songwriter living amid domestic abuse becomes a YouTube sensation after a video in which she hides her identity goes viral.",
+        "Director": [
+            "Advait Chandan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BM2IzMGIxMDQtNzE3OS00MGZjLTljNzgtMGE2MjAyZThmNjNhXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 30min"
+    },
+    {
+        "Name": "Manam",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "Bio": "Through reincarnation, family members are able to cross generations and meddle in each others' lives.",
+        "Director": [
+            "Vikram K. Kumar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYjlmMDUzMzQtYzY4OC00NGYwLWI1MmItMGIyYTk0NDFlMWZmXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "2h 43min"
+    },
+    {
+        "Name": "Ab Tak Chhappan",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "An honest encounter specialist's life begins to change with the arrival of a new police commissioner who has ties with a local don.",
+        "Director": [
+            "Shimit Amin"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMzNkYzEyMDItNWI1OS00YjYxLTljNDUtYzZkYWFhMzdjNjg1XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 9min"
+    },
+    {
+        "Name": "Johnny Gaddaar",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "Bio": "Police officers recount a tale of missing money which results in lies, deceit, betrayal and death.",
+        "Director": [
+            "Sriram Raghavan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNDE4MmU1YTktMzY1OS00NWQ4LWExZmYtZjI3MzJjNGIxZTcxXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 15min"
+    },
+    {
+        "Name": "Okkadu",
+        "genre": [
+            "Action",
+            "Romance",
+            "Sport"
+        ],
+        "Bio": "A Kabbadi player rescues a young woman from an unwanted marriage and hides her in his home.",
+        "Director": [
+            "Gunasekhar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZmJiZTIwYzktZDQyMi00OWYzLTliZDEtOTAzYmNjNjZjNTllXkEyXkFqcGdeQXVyMjMyNjkwMTY@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "2h 50min"
+    },
+    {
+        "Name": "The Lunchbox",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "A mistaken delivery in Mumbai's famously efficient lunchbox delivery system connects a young housewife to an older man in the dusk of his life as they build a fantasy world together through notes in the lunchbox.",
+        "Director": [
+            "Ritesh Batra"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTUwMzc1NjIzMV5BMl5BanBnXkFtZTgwODUyMTIxMTE@._V1_UY268_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 44min"
+    },
+    {
+        "Name": "Badla",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "Bio": "A dynamic young entrepreneur finds herself locked in a hotel room with the corpse of her dead lover. She hires a prestigious lawyer to defend her and they work together to figure out what actually happened.",
+        "Director": [
+            "Sujoy Ghosh"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYjZiMzIzYTctNDViZi00OWNmLWFmN2YtMmI2OWJiZWViMmY3XkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 58min"
+    },
+    {
+        "Name": "Hindi Medium",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "A couple from Chandni Chowk aspire to give their daughter the best education and thus be a part of and accepted by the elite of Delhi.",
+        "Director": [
+            "Saket Chaudhary"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BY2E4NWQ4ZjEtNThlOC00NThjLThmZjgtMWU0MDgzMmYwOGU3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 12min"
+    },
+    {
+        "Name": "Raazi",
+        "genre": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "A Kashmiri woman agrees to marry a Pakistani army officer in order to spy on Pakistan during the Indo-Pakistan War of 1971.",
+        "Director": [
+            "Meghna Gulzar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZmVhN2JlYjEtZWFkOS00YzE0LThiNDMtMGI3NDA1MTk2ZDQ2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 18min"
+    },
+    {
+        "Name": "Charlie",
+        "genre": [
+            "Drama",
+            "Musical",
+            "Thriller"
+        ],
+        "Bio": "A young, nonconforming woman named Tessa gets entangled in a cat-and-mouse chase in the by-lanes of Kerala, hunting for a mysterious artist who previously lived in her apartment.",
+        "Director": [
+            "Martin Prakkat"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMmZhMzVlNzEtMjQ3ZS00ZGJlLTk4N2YtMDIyNDNmZThhMGVmXkEyXkFqcGdeQXVyMzIyNDI4NjU@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Malayalam"
+        ],
+        "country": "India",
+        "Runtime": "2h 10min"
+    },
+    {
+        "Name": "Udta Punjab",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "A story that revolves around drug abuse in the affluent north Indian State of Punjab and how the youth there have succumbed to it en-masse resulting in a socio-economic decline.",
+        "Director": [
+            "Abhishek Chaubey"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNGQ4MTk2NjQtYmYzMy00MWZkLWE1YTktYWVmNWU2NjNmMzlkXkEyXkFqcGdeQXVyNTE2MzU4OTA@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 28min"
+    },
+    {
+        "Name": "Nayak: The Real Hero",
+        "genre": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "A man accepts a challenge by the chief minister of Maharashtra to run the state for one day, and makes such a success of it that soon he is embroiled in political intrigue.",
+        "Director": [
+            "S. Shankar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMGIxZGVlMzEtYjZlZS00NGRkLWEwMjUtNGEwOGUwY2ViZTA2XkEyXkFqcGdeQXVyNjY1NTEzNjE@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 7min"
+    },
+    {
+        "Name": "Mr. India",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "A poor but big-hearted man takes orphans into his home. After discovering his scientist father's invisibility device, he rises to the occasion and fights to save his children and all of India from the clutches of a megalomaniac.",
+        "Director": [
+            "Shekhar Kapur"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNTAzMzJkNjctNDA0OS00OWU3LWFlM2ItYjQxZjY0OGNiNjMzXkEyXkFqcGdeQXVyNjQ1MDcxNzM@._V1_UY268_CR8,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 59min"
+    },
+    {
+        "Name": "Don",
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "Bio": "Don, a wanted criminal, dies in a police chase. DSP D'Silva is the only one who knows about his death, and to get hold of the gang he trains Don-lookalike Vijay. But Vijay faces danger from the police and from within the gang.",
+        "Director": [
+            "Chandra Barot"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMzc0OGU4NGYtNzgwMy00NThjLWJmYWItZDUzZTVlZjg0YjdjXkEyXkFqcGdeQXVyNjQ1MDcxNzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 55min"
+    },
+    {
+        "Name": "Vicky Donor",
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "Bio": "A man is brought in by an infertility doctor to supply him with his sperm, where he becomes the biggest sperm donor for his clinic.",
+        "Director": [
+            "Shoojit Sircar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYWNlODE1ZTEtOTQ5MS00N2QwLTllNjItZDQ2Y2UzMmU5YmI2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR10,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 6min"
+    },
+    {
+        "Name": "Rock On!!",
+        "genre": [
+            "Drama",
+            "Music"
+        ],
+        "Bio": "Four friends reunite to relive their moments of glory as a rock band.",
+        "Director": [
+            "Abhishek Kapoor"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTM2NjIwODc4N15BMl5BanBnXkFtZTcwMDgwMzM4MQ@@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 25min"
+    },
+    {
+        "Name": "Stanley Ka Dabba",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "Bio": "A school-teacher, who forces children to share their food with him, forbids one from entering the school until he brings his own Tiffin/Lunch-box.",
+        "Director": [
+            "Amole Gupte"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZWVlMzlmOWItYTgwMi00MjExLTgwNDItNWI4YzY2MTgzMWJlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 36min"
+    },
+    {
+        "Name": "Pokiri",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "Bio": "A local goon's killer instincts earn him his girlfriend's disapproval, a corrupt cop's enmity and a wanted don's attention.",
+        "Director": [
+            "Puri Jagannadh"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMDg5MTc4MGEtNTFjNy00OGVlLThmOTgtNmU2ODkzZjY0YWMxXkEyXkFqcGdeQXVyNzE0MzIyOTI@._V1_UY268_CR43,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "2h 44min"
+    },
+    {
+        "Name": "Dasvidaniya",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "A man who loves to make \"to-do lists\" makes one last bucket list when he realizes he is about to die.",
+        "Director": [
+            "Shashant Shah"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZWU3ZTU2OGUtZGJlYS00Yjc5LTk0ZTctOGZkZGZmODkxYmVmXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 53min"
+    },
+    {
+        "Name": "Veer-Zaara",
+        "genre": [
+            "Drama",
+            "Family",
+            "Musical"
+        ],
+        "Bio": "Veer-Zaara is a saga of love, separation, courage and sacrifice. A love story that is an inspiration and will remain a legend forever.",
+        "Director": [
+            "Yash Chopra"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BY2VlOTc4ZjctYjVlMS00NDYwLWEwZjctZmYzZmVkNGU5NjNjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR5,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 12min"
+    },
+    {
+        "Name": "Samsara",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "A spiritual love-story set in the majestic landscape of Ladakh, Himalayas. Samsara is a quest; one man's struggle to find spiritual Enlightenment by renouncing the world. And one woman's ...\n                    See full summary\u00a0\u00bb",
+        "Director": [
+            "Pan Nalin"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTY2NTY0OTQzOV5BMl5BanBnXkFtZTcwNTQxNDMzMQ@@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tibetan"
+        ],
+        "country": "India",
+        "Runtime": "2h 25min"
+    },
+    {
+        "Name": "Guru",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "Bio": "A villager, Gurukant Desai, arrives in Bombay 1958, and rises from its streets to become the GURU, the biggest tycoon in Indian history.",
+        "Director": [
+            "Mani Ratnam"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjAzMTkyMTQ0MF5BMl5BanBnXkFtZTcwMjIxNjA0MQ@@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 46min"
+    },
+    {
+        "Name": "Oye Lucky! Lucky Oye!",
+        "genre": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "A burglar reflects on his life and loves; while the media speculates how he managed to pull off so many heists.",
+        "Director": [
+            "Dibakar Banerjee"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNjA1MjM2NTM3MV5BMl5BanBnXkFtZTcwODIyMjk5MQ@@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 5min"
+    },
+    {
+        "Name": "Rangitaranga",
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "Bio": "Mysterious events begin to unfold after a reclusive novelist and his wife move back to her ancestral village, followed by a journalist.",
+        "Director": [
+            "Anup Bhandari"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTAzNjAwNDEwMTNeQTJeQWpwZ15BbWU4MDk5MjMyMzYx._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Kannada"
+        ],
+        "country": "India",
+        "Runtime": "2h 29min"
+    },
+    {
+        "Name": "Aligarh",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "Bio": "A gay, linguistic professor living in a small orthodox city must deal with the aftermath of a sting operation that puts his sexual orientation in front of the entire nation.",
+        "Director": [
+            "Hansal Mehta"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZDUzYTRjMDAtNDkwMi00ZWY1LWI1OWEtM2VjY2NjNzNhOTRmXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 54min"
+    },
+    {
+        "Name": "Mumbai Meri Jaan",
+        "genre": [
+            "Drama"
+        ],
+        "Bio": "A moving portrayal of the 2006 train bombings in Mumbai, this Indian drama follows the interconnected stories of several strangers.",
+        "Director": [
+            "Nishikant Kamat"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNTMwMmQ3YmYtODU3MS00NzRhLTkyZGEtM2Q5OWRlMGQxMzIyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR10,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 14min"
+    },
+    {
+        "Name": "Kapoor & Sons",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "A story revolving around a dysfunctional family of 2 brothers who visit their family and discover that their parents marriage is on the verge of collapse,the family is undergoing a financial crunch and much more as the drama unfolds.",
+        "Director": [
+            "Shakun Batra"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjE4NDk4MTIwNl5BMl5BanBnXkFtZTgwNDEwODI5NzE@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 12min"
+    },
+    {
+        "Name": "Goodachari",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "Bio": "A young NSA agent is framed for the murder of his bosses making him realize that now his mission is darker than expected and has some personal scores to settle regarding his father's death, a former NSA agent.",
+        "Director": [
+            "Sashi Kiran Tikka"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOWQwNWRlNmUtY2FkZC00YmQ3LTlkNzUtOTUyZmExMDNkYjE2XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "2h 27min"
+    },
+    {
+        "Name": "Aamir",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "A doctor of Indian origin returning to Mumbai from London is forced to participate in a terrorist plot.",
+        "Director": [
+            "Raj Kumar Gupta"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMGE3MzQ4YzYtNjU4My00ZjYxLTg2ZmYtMTg5OTU0N2QwYTc0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 39min"
+    },
+    {
+        "Name": "Eega",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Bio": "A murdered man is reincarnated as a housefly and seeks to avenge his death.",
+        "Director": [
+            "S.S. Rajamouli"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjFmZjYwNGUtYzE1NC00YTllLThmZDctODc3NDExYTY3NTM3XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "2h 25min"
+    },
+    {
+        "Name": "Earth",
+        "genre": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "Bio": "It's 1947 and the borderlines between India and Pakistan are being drawn. A young girl witnesses tragedy as her ayah (nanny) is caught between the love of two men and the rising tide of political and religious violence.",
+        "Director": [
+            "Deepa Mehta"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNDE4YmFkMzItMWIwMy00MTFmLTkxNjAtMGQxZjg5MjNhMmJkXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 50min"
+    },
+    {
+        "Name": "Darr",
+        "genre": [
+            "Drama",
+            "Romance",
+            "Thriller"
+        ],
+        "Bio": "A woman plans to marry a navy officer but she is also the object of another man's obsession.",
+        "Director": [
+            "Yash Chopra"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYTczYzgzNmUtZDBkOC00Mjg5LThmOWQtYjYzNjFjNzlhYmEyXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 58min"
+    },
+    {
+        "Name": "Newton",
+        "genre": [
+            "Drama"
+        ],
+        "Bio": "A government clerk on election duty in the conflict ridden jungle of Central India tries his best to conduct free and fair voting despite the apathy of security forces and the looming fear of guerrilla attacks by communist rebels.",
+        "Director": [
+            "Amit Masurkar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMDk4Y2Q2MmUtYjE1YS00NjEwLTg0ZGYtOGJkZjUzOTllYzA0L2ltYWdlXkEyXkFqcGdeQXVyNzA0MTg0MzE@._V1_UY268_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 46min"
+    },
+    {
+        "Name": "Madras Cafe",
+        "genre": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "An Indian intelligence agent journeys to a war-torn coastal island to break a resolute rebel group and meets a passionate journalist.",
+        "Director": [
+            "Shoojit Sircar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTg1MzU5ODM4Nl5BMl5BanBnXkFtZTcwOTQ3MTM5OQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 10min"
+    },
+    {
+        "Name": "Neerja",
+        "genre": [
+            "Biography",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "Neerja is the story of the courageous Neerja Bhanot, who sacrificed her life while protecting the lives of 359 passengers on the Pan Am flight 73 in 1986. The flight was hijacked by a terrorist organization.",
+        "Director": [
+            "Ram Madhvani"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZDhjM2E0OWMtOTA0Yy00NTNhLWEwNTEtZjhkNjNmNTdiZDA2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 2min"
+    },
+    {
+        "Name": "Pyaar Ka Punchnama",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "After falling in love, three room-mates experience changes in their lives.",
+        "Director": [
+            "Luv Ranjan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNDI4MmJkM2ItYjZjMC00MzYxLWIwZWEtYzE5YWZhYmExM2I5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 29min"
+    },
+    {
+        "Name": "Agneepath",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "A young boy's quest for revenge leads him to become a gangster as an adult, and with each day he becomes more and more like his enemies. Can he find vengeance and redemption?",
+        "Director": [
+            "Mukul Anand"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOGIyNGNhN2EtYTZiNC00MDJjLWI2M2ItZjA1MTBlYmNiODNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR12,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 54min"
+    },
+    {
+        "Name": "Rockstar",
+        "genre": [
+            "Drama",
+            "Music",
+            "Musical"
+        ],
+        "Bio": "Janardhan Jakhar chases his dreams of becoming a big Rock star, during which he falls in love with Heer.",
+        "Director": [
+            "Imtiaz Ali"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOTc3NzAxMjg4M15BMl5BanBnXkFtZTcwMDc2ODQwNw@@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 39min"
+    },
+    {
+        "Name": "Kabhi Haan Kabhi Naa",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Music"
+        ],
+        "Bio": "A dreamer falls for a girl who is in love with someone else and tries to create a rift between her and the man she loves.",
+        "Director": [
+            "Kundan Shah"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYmFjYTRmMzctNWU5YS00MjY2LTg4Y2EtZDZkMWI0YjIzMjVlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 38min"
+    },
+    {
+        "Name": "Sarkar",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "The authority of a man, who runs a parallel government in Mumbai, is challenged. His son rises to face his enemies.",
+        "Director": [
+            "Ram Gopal Varma"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZTYwNGU2YzQtMDRjNS00MjlmLTk1MDEtMjBmYWQ3ZjY0NWRjXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR8,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 4min"
+    },
+    {
+        "Name": "Bheja Fry",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "Ranjit, who makes fun of idiots, gets completely annoyed when he invites a tax inspector and a singer to his house.",
+        "Director": [
+            "Sagar Ballary"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BODUzZmQ0YjMtZjVhYi00ODc1LWJjNWQtY2JjM2RmM2ZmMmI2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 35min"
+    },
+    {
+        "Name": "Highway",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "Right before her wedding, a young woman finds herself abducted and held for ransom. As the initial days pass, she begins to develop a strange bond with her kidnapper.",
+        "Director": [
+            "Imtiaz Ali"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjE5NjkyNTczM15BMl5BanBnXkFtZTgwNDg4MzE5MDE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 13min"
+    },
+    {
+        "Name": "Manorama Six Feet Under",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "Bio": "Satyaveer accepts money from Manorama, wife of an irrigation minister, to collect evidence against her husband for having an extra-marital affair. He accepts, unaware that he too is being deceived.",
+        "Director": [
+            "Navdeep Singh"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOGNjN2M4MDItMzc3YS00ZjdiLTlhMDMtYjk0OWQzMzc1ZjRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 17min"
+    },
+    {
+        "Name": "24",
+        "genre": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "Bio": "A scientist invents a time machine, which leads to a bitter battle between his evil twin brother and his son.",
+        "Director": [
+            "Vikram K. Kumar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMGU2Y2JhZmItMDU4Ni00NDA4LTg0MGMtYjlkZWMwMDdiZWE0XkEyXkFqcGdeQXVyOTA0NTIzNzU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 44min"
+    },
+    {
+        "Name": "Sanju",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "Bio": "Sanju is a biopic of the controversial life of actor Sanjay Dutt: his film career, jail sentence and personal life.",
+        "Director": [
+            "Rajkumar Hirani"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjI3NTM1NzMyNF5BMl5BanBnXkFtZTgwOTE4NTgzNTM@._V1_UY268_CR5,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 35min"
+    },
+    {
+        "Name": "Kai po che!",
+        "genre": [
+            "Drama",
+            "Sport"
+        ],
+        "Bio": "Three friends growing up in India at the turn of the millennium set out to open a training academy to produce the country's next cricket stars.",
+        "Director": [
+            "Abhishek Kapoor"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTgwNTAwMjEzMF5BMl5BanBnXkFtZTcwNzMzODY4OA@@._V1_UY268_CR10,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h"
+    },
+    {
+        "Name": "Tanu Weds Manu Returns",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "Tanu and Manu's marriage collapses. What happens when Manu meets Tanu's lookalike Kusum - and when Tanu returns?",
+        "Director": [
+            "Aanand L. Rai"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjMwMTExMjA1OV5BMl5BanBnXkFtZTgwNDI5MTcyNjE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 8min"
+    },
+    {
+        "Name": "Magadheera",
+        "genre": [
+            "Action",
+            "Drama",
+            "Fantasy"
+        ],
+        "Bio": "A bike stuntman recalls his previous life as a warrior, and pursues his love's reincarnation. A sinister figure from their shared past threatens to separate them forever.",
+        "Director": [
+            "S.S. Rajamouli"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZTY1ZjRjMzYtN2UwNi00YjA0LWI2OTktNGNiYTg1NjQ0ZTZiXkEyXkFqcGdeQXVyNjQ1MDcxNzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "2h 46min"
+    },
+    {
+        "Name": "Baazigar",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Musical"
+        ],
+        "Bio": "A young man with a vendetta against a business tycoon seduces and kills his eldest daughter and then proceeds to his younger daughter but she begins to suspect her new lover's ulterior motive.",
+        "Director": [
+            "Abbas Alibhai Burmawalla"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTc3OTE1MDAxNV5BMl5BanBnXkFtZTgwNjM1NDk5NTE@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 55min"
+    },
+    {
+        "Name": "Kuch Kuch Hota Hai",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Musical"
+        ],
+        "Bio": "During their college years, Anjali was in love with her best-friend Rahul, but he had eyes only for Tina. Years later, Rahul and the now-deceased Tina's eight-year-old daughter attempts to reunite her father and Anjali.",
+        "Director": [
+            "Karan Johar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNGNhNWMwNTgtZmNlOS00OGM3LWIxYzItOWQwZDJjMzQ3MzRlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 57min"
+    },
+    {
+        "Name": "Wake Up Sid",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "A spoiled young adult living in Mumbai experiences a change in his lazy ways when he meets a woman at a party, who inspires him to \"wake up\".",
+        "Director": [
+            "Ayan Mukherjee"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMDc1ZDBkODMtYjI0MC00NDcyLWFhMGUtYzM4NDQyMzgyYzg1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 18min"
+    },
+    {
+        "Name": "M.S. Dhoni: The Untold Stor",
+        "genre": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ],
+        "Bio": "The untold story of Mahendra Singh Dhoni's journey from ticket collector to trophy collector - the world-cup-winning captain of the Indian Cricket Team.",
+        "Director": [
+            "Neeraj Pandey"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZjAzZjZiMmQtMDZmOC00NjVmLTkyNTItOGI2Mzg4NTBhZTA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 4min"
+    },
+    {
+        "Name": "Thuppakki",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "Bio": "An army captain is on a mission to track down and destroy a terrorist gang and deactivate the sleeper cells under its command.",
+        "Director": [
+            "A.R. Murugadoss"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZjQxYjVkYzQtMmEzNy00MzM1LWE4OTUtZTc0NTdkMjBiOGZiXkEyXkFqcGdeQXVyODE0NjUxNzY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 45min"
+    },
+    {
+        "Name": "The Tashkent Files",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Bio": "Revolves around the mysterious death of India's 2nd Prime Minister Shri Lal Bahadur Shastri and attempts to uncover if he had actually died a natural death, or, as alleged, was assassinated.",
+        "Director": [
+            "Vivek Agnihotri"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYzk3NWM2MmItZGU5NS00MGEwLWIzYzMtMDkyZDQ1NTc2MTAxXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 14min"
+    },
+    {
+        "Name": "Saala Khadoos",
+        "genre": [
+            "Action",
+            "Drama",
+            "Sport"
+        ],
+        "Bio": "The story of a former boxer who quits boxing following a fallout with the authorities over the underlying politics but goes on to coach a fisherwoman to fulfill his dream through her.",
+        "Director": [
+            "Sudha Kongara"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZGE5Nzk5NDQtYjNmNi00ODE5LWEwNzktMTEwMTA4N2MyOGZmXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 49min"
+    },
+    {
+        "Name": "Piku",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "A quirky comedy about the relationship between a daughter and her aging father, whose eccentricities drive everyone crazy.",
+        "Director": [
+            "Shoojit Sircar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTUwOTMxNjc2OV5BMl5BanBnXkFtZTgwODQ4OTMxNTE@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 3min"
+    },
+    {
+        "Name": "Stree",
+        "genre": [
+            "Comedy",
+            "Horror"
+        ],
+        "Bio": "In the small town of Chanderi, the menfolk live in fear of an evil spirit named \"Stree\" who abducts men in the night. Based on the urban legend of \"Nale Ba\" that went viral in Karnataka in the 1990s.",
+        "Director": [
+            "Amar Kaushik"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjk4NGZiMzAtODU1NS00MmQ4LWJiNmQtNWU5ZWU4Y2VmNWI0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 8min"
+    },
+    {
+        "Name": "Kaththi",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "Bio": "Jeevanandham is a social activist who fights against a monstrous MNC company to restore farming. Because of destiny, Kathiresan impersonates Jeevanandham and leads the war.",
+        "Director": [
+            "A.R. Murugadoss"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOTVkNGViZGEtMjZkMy00MzgyLWIxZTktZjgwYzAwNDM1MDcxXkEyXkFqcGdeQXVyODk1MzE5NDA@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 46min"
+    },
+    {
+        "Name": "Jodhaa Akbar",
+        "genre": [
+            "Action",
+            "Drama",
+            "History"
+        ],
+        "Bio": "A sixteenth century love story about a marriage of alliance that gave birth to true love between a great Mughal emperor, Akbar, and a Rajput princess, Jodha.",
+        "Director": [
+            "Ashutosh Gowariker"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTI1ODQ2MDIxMl5BMl5BanBnXkFtZTcwNTc3Mzk1MQ@@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 33min"
+    },
+    {
+        "Name": "Dhruva",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "Bio": "A committed police officer is on a very dangerous mission to destroy the most corrupt person in the country, Siddharth Abhimanyu.",
+        "Director": [
+            "Surrender Reddy"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNmZhNDMyZDQtNjRmNC00OWRhLWI4OGItNmZlMGRiMzk4YTNjXkEyXkFqcGdeQXVyNjIwNDI3NzI@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "2h 45min"
+    },
+    {
+        "Name": "1 - Nenokkadine",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "Bio": "A rock star must overcome his psychological inhibitions to seek revenge for his parents' death.",
+        "Director": [
+            "Sukumar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNzcwMzkwODE1NF5BMl5BanBnXkFtZTgwNzA1NzAwMTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "2h 50min"
+    },
+    {
+        "Name": "Delhi Belly",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "Bio": "Three struggling room-mates unknowingly become potential prey of a ruthless gangster.",
+        "Director": [
+            "Abhinay Deo"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZjJmOTNjNDgtY2E3ZC00OTRmLTlmYWItNjRkMzQ4NzZlY2M2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "English"
+        ],
+        "country": "India",
+        "Runtime": "1h 43min"
+    },
+    {
+        "Name": "Ek Hasina Thi",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "Bio": "A woman falls for a charming and mysterious businessman. The whirlwind romance turns sour when she is framed for his underworld crimes. Now, finally out of prison she is ready for sweet revenge.",
+        "Director": [
+            "Sriram Raghavan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYjhiZmZjYTAtY2M4Zi00YWMzLTg0YTctZjVhOTc0MjhkYTRhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h"
+    },
+    {
+        "Name": "Devdas",
+        "genre": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ],
+        "Bio": "After his wealthy family prohibits him from marrying the woman he is in love with, Devdas Mukherjee's life spirals further and further out of control as he takes up alcohol and a life of vice to numb the pain.",
+        "Director": [
+            "Sanjay Leela Bhansali"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BY2QxMGM4Y2QtMGFmMy00ZjZkLWExMWQtNTY1Yjc0MDFjZjY0XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 5min"
+    },
+    {
+        "Name": "Parmanu: The Story of Pokhran",
+        "genre": [
+            "Action",
+            "Drama",
+            "History"
+        ],
+        "Bio": "Ashwat Raina and his teammates arrive in Pokhran to re-conduct a confidential nuclear test, where they face challenges from the American Lacrosse satellite and local spies.",
+        "Director": [
+            "Abhishek Sharma"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMDNjZjkyNjQtNWMyMC00ODA5LTgyODctOGRiOWUwYTAzOWVjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 9min"
+    },
+    {
+        "Name": "Raanjhanaa",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "Kundan, the son of a Hindu pundit, discovers that his childhood sweetheart Zoya loves city-bred Akram and wants to marry him. However, he persistently seeks to win her heart.",
+        "Director": [
+            "Aanand L. Rai"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BN2MzYWI2OGQtNzgxNi00ZjNiLWI1NTQtZWUyNWNiZDEyODFmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 20min"
+    },
+    {
+        "Name": "Dil Se..",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "A radio broadcaster's intense attraction to a mysterious woman opens the door to a tidal wave of powerful emotions and desires.",
+        "Director": [
+            "Mani Ratnam"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMThjOGRjNmMtNjBmZi00MDJlLWE1YWUtZDY2YmU3YWMyYjlmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 43min"
+    },
+    {
+        "Name": "Detective Byomkesh Bakshy!",
+        "genre": [
+            "Action",
+            "Mystery",
+            "Thriller"
+        ],
+        "Bio": "While investigating the disappearance of a chemist, a detective uncovers a larger conspiracy to unsettle Calcutta.",
+        "Director": [
+            "Dibakar Banerjee"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjE2MDgyOTgzN15BMl5BanBnXkFtZTgwNzY2NTYyNTM@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 19min"
+    },
+    {
+        "Name": "Rocket Singh: Salesman of the Year",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "A story of a fresh graduate trying to find a balance between the maddening demands of the 'professional' way, and the way of his heart.",
+        "Director": [
+            "Shimit Amin"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNDdhYjZiNjYtZmNhZS00NWFiLWFlNzgtNzRkMTU4ZWUwNTE4XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 30min"
+    },
+    {
+        "Name": "Trapped",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "A man struggles to survive after he unintentionally locks himself up in a high rise devoid of food, water and electricity.",
+        "Director": [
+            "Vikramaditya Motwane"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNGZhNjljZmYtODZmZi00NmQ2LThlOTktNjE0ZjRlYmFlZTMzXkEyXkFqcGdeQXVyNTczMTc5MQ@@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 45min"
+    },
+    {
+        "Name": "Hungama",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "The story of a bunch of misfits whose misconception about each others backgrounds end up in a series of chaotic, yet comic outcomes.",
+        "Director": [
+            "Priyadarshan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNTVjMWY5MGUtNjU2MS00NzgxLWJhZWUtM2VjMDE4YWRkOWFjXkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 33min"
+    },
+    {
+        "Name": "The Ghazi Attack",
+        "genre": [
+            "Action",
+            "Thriller",
+            "War"
+        ],
+        "Bio": "A Pakistani submarine, Ghazi plans to secretly attack Vizag port. For doing so, it has to get past Indian submarine S21.",
+        "Director": [
+            "Sankalp Reddy"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZWJjM2U2ODUtNDZkZi00NjdhLWE0MzMtYzIyNzE0ZTcyNmJkL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 56min"
+    },
+    {
+        "Name": "Rehnaa Hai Terre Dil Mein",
+        "genre": [
+            "Musical",
+            "Romance"
+        ],
+        "Bio": "A young girl is torn between an obsessive lover and a mild-mannered suitor.",
+        "Director": [
+            "Gautham Vasudev Menon"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZmVjOTY1NjUtMjVkYS00YjE4LTk5N2YtMWU2MTA4NmJjM2I1XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR8,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 40min"
+    },
+    {
+        "Name": "Bhavesh Joshi Superhero",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "Bio": "The origin story of Bhavesh Joshi, an Indian superhero, who sets out to fulfill his slain friend's wish to clean and reform the country, by training himself to fight and wearing a mask.",
+        "Director": [
+            "Vikramaditya Motwane"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOWYxMGM5NGUtYjE4Mi00NjQ2LTllYjUtNTMyNTdjZGIxZjcxXkEyXkFqcGdeQXVyNzkxOTEyMjI@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 34min"
+    },
+    {
+        "Name": "Geetha Govindam",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "An innocent young lecturer is misunderstood as a pervert and despised by a woman who co-incidentally turns out to be the younger sister of his brother-in-law. Eventually differences subside and love blooms between them.",
+        "Director": [
+            "Parasuram"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZDgwZTAxODAtY2JmYy00YzE2LWJlN2EtYzMyMDUyOGFmNzI0XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR7,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Telugu"
+        ],
+        "country": "India",
+        "Runtime": "2h 22min"
+    },
+    {
+        "Name": "Qayamat Se Qayamat Tak",
+        "genre": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ],
+        "Bio": "Despite knowing that their respective families are bitter enemies, Raj and Rashmi fall in love with each other and decide to elope.",
+        "Director": [
+            "Mansoor Khan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZDAwM2E2YmEtN2I3Zi00NmY5LTkxNTAtODVmNmM4MmY2YTFjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 42min"
+    },
+    {
+        "Name": "Jolly LLB",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "A small time lawyer files a PIL in court against his own idols case.",
+        "Director": [
+            "Subhash Kapoor"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZDdjYzYxMGEtOWQ0Yi00ZTlhLThhZTgtNjhjNWQ1YzU1ZGNiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 15min"
+    },
+    {
+        "Name": "Hum Aapke Hain Koun...!",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Musical"
+        ],
+        "Bio": "Prem and Nisha meet and fall in love at the wedding of their elder siblings, but their plans to be together are put in jeopardy when Nisha's sister dies, leaving behind a baby.",
+        "Director": [
+            "Sooraj R. Barjatya"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZjc0ODAwMmItMmQwMy00MmRmLThjOGYtZGEwYjQ2ZjcyYzA3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 26min"
+    },
+    {
+        "Name": "Ghajini",
+        "genre": [
+            "Action",
+            "Drama",
+            "Mystery"
+        ],
+        "Bio": "Sanjay Ramaswamy, who is suffering from short-term memory loss, sets out on a quest to find the people who were responsible for his ladylove Kalpana's murder.",
+        "Director": [
+            "A.R. Murugadoss"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZGMxMzNlNjgtYTBhNS00YjIxLThiZjAtOTgxZjFmMzZlZTJjXkEyXkFqcGdeQXVyODE0NjUxNzY@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 55min"
+    },
+    {
+        "Name": "Madaari",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "When Nirmal loses his family in a disaster caused by government corruption, he embarks on a journey seeking accountability and revenge.",
+        "Director": [
+            "Nishikant Kamat"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZDFjODM0NDAtNGJkZC00NmRiLWI3NmYtZDFkYmRhYmE4Zjk3XkEyXkFqcGdeQXVyNTIwODMzNjc@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 13min"
+    },
+    {
+        "Name": "Bareilly Ki Barfi",
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "Bio": "Set in the small-town of Bareilly, Bitti is a free-spirited young girl who lives life on her own terms and refuses to be pressured into getting married. Her life takes a shift when she meets Chirag Dubey and Pritam Vidrohi.",
+        "Director": [
+            "Ashwiny Iyer Tiwari"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYThmNTMwZDYtZWFiYi00MGI4LTk0NzUtMzc2Njc2MmRhOGE2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR14,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 56min"
+    },
+    {
+        "Name": "Ghilli",
+        "genre": [
+            "Action",
+            "Romance"
+        ],
+        "Bio": "Velu, an aspiring kabaddi player, goes to Madurai to participate in a regional match, where he rescues Dhanalakshmi from Muthupandi, a powerful man keen on marrying the girl against her will.",
+        "Director": [
+            "Dharani"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BY2MyOTA2MjUtZmI5Ny00MmU0LTk4ZTUtYmU1ZDA1NTBkODRjXkEyXkFqcGdeQXVyOTA3MTc1OTg@._V1_UY268_CR8,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 40min"
+    },
+    {
+        "Name": "Dum Laga Ke Haisha",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "Prem and his oversized wife Sandhya are supposed to spend a lifetime together. Will a regular arranged marriage turn out to be a perfect mismatch?",
+        "Director": [
+            "Sharat Katariya"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTU4NDY2NjgxOV5BMl5BanBnXkFtZTgwMjk2NTYyNTM@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 50min"
+    },
+    {
+        "Name": "Amar Akbar Anthony",
+        "genre": [
+            "Action",
+            "Drama",
+            "Family"
+        ],
+        "Bio": "Three brothers are separated and united after many years - one is brought up a Hindu, another a Muslim and the last (and most memorable) a Christian. Hilarity and adventure ensues.",
+        "Director": [
+            "Manmohan Desai"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNTMzNzE1YTUtYTMyOS00YWNhLWJlZWUtNDMwZjQ0MzQ3MWYwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR6,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 4min"
+    },
+    {
+        "Name": "Hum Dil De Chuke Sanam",
+        "genre": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ],
+        "Bio": "Nandini has to choose between Sameer, the man who taught her to fall in love; and Vanraj, the man from whom she learnt how to abide and fulfill promises of love.",
+        "Director": [
+            "Sanjay Leela Bhansali"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZWI5ZWMxN2QtNjJmNS00M2EwLTg3ZmUtYzI5ODY3MWM2MzM1XkEyXkFqcGdeQXVyNDk3Mzg2OTc@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 8min"
+    },
+    {
+        "Name": "Sivaji",
+        "genre": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "A software engineer comes to India to serve the nation and invest in nation's welfare. A few corrupt officials and politicians try to stop him while he tries to do good for the poor.",
+        "Director": [
+            "S. Shankar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYzdhMDM0NzItY2EyOC00YWMyLTgxNmMtODNhNjI1NDEzNGRkXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "3h 8min"
+    },
+    {
+        "Name": "Jaane Tu... Ya Jaane Na",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "Two best friends being convinced that they are not in love search for each other's love.",
+        "Director": [
+            "Abbas Tyrewala"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNDUxYTFiODktNDI5NC00YmI1LThiMWUtN2FjYTU2ZTQ5ODQ1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 35min"
+    },
+    {
+        "Name": "Rangeela",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Musical"
+        ],
+        "Bio": "A middle class young woman, who dreams of Bollywood fame, is caught in a love triangle between her childhood friend and a famous actor.",
+        "Director": [
+            "Ram Gopal Varma"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNmQxOWQ5NzgtMjVkNS00NDJiLTg1NzgtY2FkY2FlNzFjYTEwXkEyXkFqcGdeQXVyMTAxNjY4MzY2._V1_UY268_CR7,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 22min"
+    },
+    {
+        "Name": "October",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "A group of interns are going through the usual grind when suddenly an accident changes their lives. The protagonist can't get let go of it and becomes obsessed with it. What does it all lead to? Is it love or something else?",
+        "Director": [
+            "Shoojit Sircar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNTM5NjZmMTgtMDEwMi00ZTc3LWIwOTItY2I2NjBiYmZlNzRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR10,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 55min"
+    },
+    {
+        "Name": "Hichki",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "Hichki presents a positive and inspiring story about a woman who turns her biggest weakness into her biggest strength.",
+        "Director": [
+            "Siddharth Malhotra"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMDNkZTVjYWMtZGJjNS00YTM5LWI1YmMtYmY0ZDFlOWNlZjFmXkEyXkFqcGdeQXVyMTkzOTcxOTg@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 56min"
+    },
+    {
+        "Name": "Karwaan",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "Two friends and a chirpy teenager take a road trip from Bangalore to Kochi.",
+        "Director": [
+            "Akarsh Khurana"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYjYxZjc1YmMtNTIyOS00OGUyLWI5MTYtOWZiNzc5Yzc4MDBhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 54min"
+    },
+    {
+        "Name": "Mankatha",
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "Bio": "A game of chase and get chased ensues after a suspended cop is betrayed by two men who helped him and another officer rob cricket betting money.",
+        "Director": [
+            "Venkat Prabhu"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNmRjN2E2MTUtMmVkNC00MzEzLTkzODgtZTM0NzI0ZDJkM2YyXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "Runtime": "2h 35min"
+    },
+    {
+        "Name": "The Sky Is Pink",
+        "genre": [
+            "Drama",
+            "Family",
+            "Romance"
+        ],
+        "Bio": "Based on the love story of a couple spanning 25 years and told through the lens of their spunky teenage daughter Aisha Chaudhary, who was diagnosed with pulmonary fibrosis.",
+        "Director": [
+            "Shonali Bose"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNWQ5OTJjYTktMGNmYi00ZGMwLTlkYTgtODY3YWIxZDgyMzkwXkEyXkFqcGdeQXVyOTg4MzcyNzQ@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "English"
+        ],
+        "country": "India",
+        "Runtime": "2h 23min"
+    },
+    {
+        "Name": "Aankhen",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Bio": "After a temperamental man is unceremoniously stripped of his duties as a bank manager, he decides to seek revenge by robbing the bank. He trains three blind men to do this risky task for him.",
+        "Director": [
+            "Vipul Amrutlal Shah"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMzAxODFhMzItZjI1OS00MmI0LThhNGItYzU5NWM2ZGM4ZDIyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 45min"
+    },
+    {
+        "Name": "Socha Na Tha",
+        "genre": [
+            "Romance",
+            "Comedy"
+        ],
+        "Bio": "A boy is forced meet a girl for an arranged marriage but even though he refuses the match, they secretly become friends. As things get complicated and both get engaged to different people they realize they've fallen in love with each other.",
+        "Director": [
+            "Imtiaz Ali"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNTY2ZTU2ZDQtOGViNC00YjA5LWJjNDAtNWFhOGYyMTQyZjFkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR10,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 17min"
+    },
+    {
+        "Name": "Peepli (Live)",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "An impoverished farmer's threat to end his life invites attention from politicians and media.",
+        "Director": [
+            "Anusha Rizvi"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZTU4NmJkNWEtNmM0ZC00NDkyLThkZDYtZTVkNTQxMTNhOTlhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 35min"
+    },
+    {
+        "Name": "Tanhaji: The Unsung Warrior",
+        "genre": [
+            "Action",
+            "Biography",
+            "Drama"
+        ],
+        "Bio": "Tanhaji Malusare, a military chieftain in the army of the Maratha king Shivaji, leads the charge to capture the strategically important Kondhana fort guarded by the army of the fierce Rajput chieftain Udaybhan Rathod.",
+        "Director": [
+            "Om Raut"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMDc5ZmQ3MzUtYTY4OS00YTE3LTkwNmItNmQ2ODIwNWM3MzY1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 15min"
+    },
+    {
+        "Name": "Shaadi Mein Zaroor Aana",
+        "genre": [
+            "Drama",
+            "Family",
+            "Romance"
+        ],
+        "Bio": "Satyendra aka Sattu (Rajkummar Rao) and Aarti (Kriti Kharbanda) meet for a proposed arranged marriage and fall in love in the process. On the night of their marriage, an unexpected turn of ...\n                    See full summary\u00a0\u00bb",
+        "Director": [
+            "Ratnaa Sinha"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BODFkMDRjMWQtNDllMC00NjMwLWFlYzQtMWY5YWFkM2Y1NzhlXkEyXkFqcGdeQXVyNzkxOTEyMjI@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 17min"
+    },
+    {
+        "Name": "Badlapur",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "An innocent man turns brutal when his family gets killed in a bank robbery and one of the perpetrators escapes. 15 years later, he begins his deadly game of vengeance.",
+        "Director": [
+            "Sriram Raghavan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMmIzOWY5NjMtOTNhOC00YzQxLTk2OTYtNzFkNTE4NGQzZmFmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 14min"
+    },
+    {
+        "Name": "Chillar Party",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "Bio": "A gang of innocent but feisty kids who lead carefree lives in Chandan Nagar colony takes on the big bad world of politics when one of their friend's life is endangered.",
+        "Director": [
+            "Vikas Bahl"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTJiYmU2NWUtOGM3Yi00NDJkLWFkNjktNzlhZWJlNmYxMDBlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 15min"
+    },
+    {
+        "Name": "Kabhi Khushi Kabhie Gham...",
+        "genre": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ],
+        "Bio": "After marrying a poor woman, rich Rahul is disowned by his father and moves to London to build a new life. Years later, his now grown up little brother Rohan embarks on a mission to bring Rahul back home and reunite the family again.",
+        "Director": [
+            "Karan Johar"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BOTQ5Nzc3NzAtMzZlMS00ZWJjLWIxMGMtNDU4ZTQ1NmNjMjc5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR13,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 30min"
+    },
+    {
+        "Name": "Golmaal: Fun Unlimited",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "Four runaway crooks take shelter in a bungalow which is owned by a blind couple.",
+        "Director": [
+            "Rohit Shetty"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYmE3YmNiM2YtM2MxMi00ZDhmLTk1ZTQtODdjOWY4YjVkYThmXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR7,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 30min"
+    },
+    {
+        "Name": "Baghban",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "An elderly couple wish their children to care for them in their old age. But their children see and treat them as a burden, and they must struggle to regain their worth and dignity to themselves and others.",
+        "Director": [
+            "Ravi Chopra"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMjY0NGNkY2EtOWQ0Ny00YTllLWE5NjItMDM2MGIyZWRhMzM4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "3h 1min"
+    },
+    {
+        "Name": "Dear Zindagi",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "Kaira is a budding cinematographer in search of a perfect life. Her encounter with Jug, an unconventional thinker, helps her gain a new perspective on life. She discovers that happiness is all about finding comfort in life's imperfections.",
+        "Director": [
+            "Gauri Shinde"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZWQzYWI3ZGMtYzgyYy00OWZkLWEwODYtNGNiMTZhODBkNzUyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 31min"
+    },
+    {
+        "Name": "Chachi 420",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "Bio": "Desperation to be with his only child forces a divorced man to take the guise of the child's nanny. Situations get really messy when the child's grandfather (the man's ex-father-in-law) falls in love with his disguised ex-son-in-law.",
+        "Director": [
+            "Kamal Haasan"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BYTUyZGM3YWUtZjBiMy00YTRlLWE2YWYtNDc1YmI1MjIxNjNkXkEyXkFqcGdeQXVyODIwMTU5ODA@._V1_UY268_CR8,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 35min"
+    },
+    {
+        "Name": "Guzaarish",
+        "genre": [
+            "Drama"
+        ],
+        "Bio": "A paralyzed Magician-turned-Radio Jockey files a Petition in Court seeking permission to end his life.",
+        "Director": [
+            "Sanjay Leela Bhansali"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTMzMzIzOTQwOF5BMl5BanBnXkFtZTcwMTI2MTYxNA@@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 6min"
+    },
+    {
+        "Name": "Once Upon a Time in Mumbaai",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "A smuggler rises to power in in 1970s Mumbai, a younger gangster seeks to overthrow him and a police officer is caught in the middle.",
+        "Director": [
+            "Milan Luthria"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNWQzMTQ4ZTYtNzJkMi00OWE5LWEwYjctMTRkY2FhYTJmZWZhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 14min"
+    },
+    {
+        "Name": "Khakee",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "A team of police force escorts an alleged terrorist from Chandangarh to Mumbai. However their trip turns into a deadly survival when an ex-cop tries to stop them to reach Mumbai.",
+        "Director": [
+            "Rajkumar Santoshi"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BN2NhOGZlNzYtYmYxMS00YTk1LTk2MDItNjI3MDVlZTRkZDYwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 54min"
+    },
+    {
+        "Name": "102 Not Out",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Bio": "102 Not Out is a 2018 comedy-drama film, with legendary actor Amitabh Bachchan playing a 102-year-old wanting to break the oldest-man-alive record. Another Bollywood legend Rishi Kapoor plays his sad and grumpy 75-year-old son.",
+        "Director": [
+            "Umesh Shukla"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZDRlM2Q3NTAtY2I3My00ZTNmLWE0YzAtMTA1YjA4MzcyZTQzXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "1h 42min"
+    },
+    {
+        "Name": "Kaminey",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Bio": "The desperate lives of two estranged twin brothers converge over missing drugs, politics, racial prejudice, corrupt cops and an unplanned pregnancy.",
+        "Director": [
+            "Vishal Bhardwaj"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BMTM2MTQ4NTY1Nl5BMl5BanBnXkFtZTcwMDI3NTU2Mg@@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 10min"
+    },
+    {
+        "Name": "Life in a Metro",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Bio": "Six different stories, about nine people, each with different issues and problems, all occurring within one place: the METRO.",
+        "Director": [
+            "Anurag Basu"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNmVmMTEwMzQtMDNkNC00M2U5LWE5M2EtODM0NTM5NGU2OTQ2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 12min"
+    },
+    {
+        "Name": "Hum Hain Rahi Pyar Ke",
+        "genre": [
+            "Drama",
+            "Family",
+            "Comedy"
+        ],
+        "Bio": "Rahul Malhotra (Aamir Khan) is the manager of the heavily in debt family business. He is also the guardian of his dead sister's mischievous kids. Rahul hires Vaijayanti (Juhi Chawla) as ...\n                    See full summary\u00a0\u00bb",
+        "Director": [
+            "Mahesh Bhatt"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BNTk5NmU0ZDgtODU5Zi00MTExLTk2MDgtYTg1MDhlMTkwN2Q1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR10,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 43min"
+    },
+    {
+        "Name": "Bala",
+        "genre": [
+            "Comedy"
+        ],
+        "Bio": "It tells the story of a man who is balding prematurely and how he copes up with the situation.",
+        "Director": [
+            "Amar Kaushik"
+        ],
+        "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZmM4YWNjODItZTliOS00M2Y2LTk5ZjgtMDVhMDBiMTlkYTNjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "Runtime": "2h 13min"
+    }
+]
