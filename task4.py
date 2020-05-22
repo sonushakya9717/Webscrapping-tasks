@@ -25,10 +25,10 @@ for i in task4:
 	subtext=soup.find("div",class_="subtext")
 	a_tag=subtext.find_all("a")
 	time=subtext.find("time").text
-	gaand=[]
+	yes=[]
 	for l in range(len(a_tag)-1):
-		gaand.append(a_tag[l].text)
-	more_details["genre"]=gaand
+		yes.append(a_tag[l].text)
+	more_details["genre"]=yes
 
 	plot_summary=soup.find("div",class_="plot_summary")
 	summary=plot_summary.find("div",class_="summary_text").text
